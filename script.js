@@ -1,1 +1,1319 @@
-const _0x383a0d=_0x218d;function _0x218d(_0x285725,_0x51c905){const _0x48db1d=_0x48db();return _0x218d=function(_0x218dbd,_0x590d34){_0x218dbd=_0x218dbd-0xc5;let _0x5e6814=_0x48db1d[_0x218dbd];return _0x5e6814;},_0x218d(_0x285725,_0x51c905);}(function(_0x1fd081,_0x3b9dba){const _0x4fe7fa=_0x218d,_0x2511bf=_0x1fd081();while(!![]){try{const _0x187710=-parseInt(_0x4fe7fa(0xd0))/0x1+-parseInt(_0x4fe7fa(0x209))/0x2*(parseInt(_0x4fe7fa(0x1c9))/0x3)+parseInt(_0x4fe7fa(0x185))/0x4+parseInt(_0x4fe7fa(0x200))/0x5+parseInt(_0x4fe7fa(0x1ca))/0x6*(-parseInt(_0x4fe7fa(0x1e7))/0x7)+parseInt(_0x4fe7fa(0xca))/0x8*(-parseInt(_0x4fe7fa(0xda))/0x9)+-parseInt(_0x4fe7fa(0xdc))/0xa*(-parseInt(_0x4fe7fa(0x1dc))/0xb);if(_0x187710===_0x3b9dba)break;else _0x2511bf['push'](_0x2511bf['shift']());}catch(_0x15d2d2){_0x2511bf['push'](_0x2511bf['shift']());}}}(_0x48db,0x52b26),document[_0x383a0d(0x274)]('DOMContentLoaded',function(){const _0x3d50fe=_0x383a0d,_0x38a35f=[{'question':_0x3d50fe(0x10c),'answers':{'a':_0x3d50fe(0x11d),'b':_0x3d50fe(0x1fc),'c':_0x3d50fe(0x1cd),'d':_0x3d50fe(0x198)},'correctAnswer':'b'},{'question':_0x3d50fe(0x266),'answers':{'a':_0x3d50fe(0x118),'b':_0x3d50fe(0x16e),'c':_0x3d50fe(0x14d),'d':'La\x20potenza\x20della\x20scheda\x20grafica'},'correctAnswer':'c'},{'question':_0x3d50fe(0x250),'answers':{'a':_0x3d50fe(0x242),'b':'10ª\x20generazione','c':_0x3d50fe(0x24f),'d':'8ª\x20generazione'},'correctAnswer':'a'},{'question':_0x3d50fe(0x154),'answers':{'a':_0x3d50fe(0x229),'b':_0x3d50fe(0x1b1),'c':_0x3d50fe(0x238),'d':_0x3d50fe(0x259)},'correctAnswer':'a'},{'question':'Cosa\x20indica\x20la\x20sigla\x20\x27TDP\x27\x20nelle\x20CPU?','answers':{'a':_0x3d50fe(0x166),'b':_0x3d50fe(0x1ab),'c':_0x3d50fe(0x109),'d':'Thread\x20Dual\x20Processing'},'correctAnswer':'a'},{'question':_0x3d50fe(0x25a),'answers':{'a':_0x3d50fe(0x15f),'b':_0x3d50fe(0x229),'c':'TDP','d':_0x3d50fe(0x1f2)},'correctAnswer':'a'},{'question':_0x3d50fe(0x12e),'answers':{'a':_0x3d50fe(0x15b),'b':_0x3d50fe(0x19c),'c':_0x3d50fe(0x16a),'d':'Consumo\x20energetico'},'correctAnswer':'a'},{'question':'Cos\x27è\x20l\x27overclocking\x20di\x20una\x20CPU?','answers':{'a':_0x3d50fe(0x177),'b':_0x3d50fe(0x1cf),'c':_0x3d50fe(0xd5),'d':_0x3d50fe(0x179)},'correctAnswer':'a'},{'question':_0x3d50fe(0x19e),'answers':{'a':_0x3d50fe(0x136),'b':_0x3d50fe(0x1a0),'c':_0x3d50fe(0x180),'d':'AM5'},'correctAnswer':'a'},{'question':_0x3d50fe(0x153),'answers':{'a':_0x3d50fe(0x201),'b':'Aumenta\x20la\x20capacità\x20della\x20memoria','c':_0x3d50fe(0x1d0),'d':_0x3d50fe(0x1f8)},'correctAnswer':'a'},{'question':'Cosa\x20indica\x20la\x20cache\x20L1\x20in\x20una\x20CPU?','answers':{'a':'Memoria\x20più\x20veloce,\x20vicina\x20ai\x20core','b':'Memoria\x20di\x20backup','c':'Memoria\x20più\x20lenta\x20rispetto\x20alla\x20RAM','d':_0x3d50fe(0x122)},'correctAnswer':'a'},{'question':_0x3d50fe(0x144),'answers':{'a':_0x3d50fe(0x210),'b':_0x3d50fe(0x141),'c':_0x3d50fe(0x1dd),'d':_0x3d50fe(0xce)},'correctAnswer':'a'},{'question':_0x3d50fe(0x143),'answers':{'a':'La\x20CPU\x20con\x20\x27K\x27\x20è\x20sbloccata\x20per\x20l\x27overclocking','b':_0x3d50fe(0x18e),'c':_0x3d50fe(0x19b),'d':_0x3d50fe(0x26e)},'correctAnswer':'a'},{'question':_0x3d50fe(0x167),'answers':{'a':_0x3d50fe(0x140),'b':'Un\x20tipo\x20di\x20overclocking','c':_0x3d50fe(0xf4),'d':'Un\x20sistema\x20di\x20raffreddamento\x20avanzato'},'correctAnswer':'a'},{'question':'Cosa\x20rappresenta\x20il\x20numero\x20di\x20thread\x20in\x20una\x20CPU?','answers':{'a':_0x3d50fe(0x207),'b':_0x3d50fe(0x252),'c':_0x3d50fe(0x15d),'d':_0x3d50fe(0x183)},'correctAnswer':'a'},{'question':_0x3d50fe(0x233),'answers':{'a':'Indica\x20un\x20modello\x20ottimizzato\x20per\x20prestazioni\x20elevate','b':_0x3d50fe(0x16b),'c':_0x3d50fe(0x25d),'d':_0x3d50fe(0x1d9)},'correctAnswer':'a'},{'question':'Qual\x20è\x20il\x20nome\x20della\x20tecnologia\x20Intel\x20che\x20aumenta\x20dinamicamente\x20la\x20frequenza\x20della\x20CPU\x20quando\x20necessario?','answers':{'a':_0x3d50fe(0x1fd),'b':_0x3d50fe(0x1ce),'c':_0x3d50fe(0x1d1),'d':_0x3d50fe(0x204)},'correctAnswer':'a'},{'question':'Cos\x27è\x20una\x20CPU\x20con\x20moltiplicatore\x20sbloccato?','answers':{'a':'Una\x20CPU\x20che\x20permette\x20di\x20regolare\x20la\x20frequenza\x20di\x20clock','b':'Una\x20CPU\x20senza\x20GPU\x20integrata','c':_0x3d50fe(0xd1),'d':_0x3d50fe(0x142)},'correctAnswer':'a'},{'question':'Qual\x20è\x20la\x20funzione\x20della\x20cache\x20L3\x20in\x20una\x20CPU?','answers':{'a':_0x3d50fe(0x13d),'b':_0x3d50fe(0x199),'c':_0x3d50fe(0xe8),'d':_0x3d50fe(0x1bd)},'correctAnswer':'a'},{'question':'Qual\x20è\x20il\x20socket\x20utilizzato\x20dalla\x20maggior\x20parte\x20delle\x20CPU\x20Intel\x20di\x2012ª\x20generazione?','answers':{'a':_0x3d50fe(0x180),'b':_0x3d50fe(0x1a0),'c':_0x3d50fe(0x136),'d':_0x3d50fe(0x18a)},'correctAnswer':'a'},{'question':'Qual\x20è\x20la\x20differenza\x20principale\x20tra\x20una\x20CPU\x20con\x204\x20core\x20e\x20una\x20con\x208\x20core?','answers':{'a':_0x3d50fe(0x26a),'b':_0x3d50fe(0x220),'c':_0x3d50fe(0x11a),'d':_0x3d50fe(0x130)},'correctAnswer':'a'},{'question':_0x3d50fe(0x19a),'answers':{'a':_0x3d50fe(0x100),'b':'La\x20memoria\x20RAM','c':'Il\x20controller\x20della\x20scheda\x20madre','d':'Il\x20disco\x20SSD'},'correctAnswer':'a'},{'question':'Qual\x20è\x20il\x20vantaggio\x20di\x20una\x20CPU\x20a\x207\x20nm\x20rispetto\x20a\x20una\x20a\x2014\x20nm?','answers':{'a':_0x3d50fe(0x262),'b':'Maggiore\x20dimensione\x20della\x20cache','c':_0x3d50fe(0x205),'d':'Supporto\x20per\x20più\x20RAM'},'correctAnswer':'a'},{'question':'Quale\x20dei\x20seguenti\x20termini\x20si\x20riferisce\x20alla\x20velocità\x20massima\x20di\x20elaborazione\x20di\x20una\x20CPU?','answers':{'a':'Boost\x20Clock','b':_0x3d50fe(0x103),'c':_0x3d50fe(0xd6),'d':_0x3d50fe(0x1f2)},'correctAnswer':'a'},{'question':_0x3d50fe(0x128),'answers':{'a':_0x3d50fe(0x244),'b':_0x3d50fe(0x23f),'c':_0x3d50fe(0x26d),'d':'Gestire\x20l\x27alimentazione\x20del\x20sistema'},'correctAnswer':'a'},{'question':'Quali\x20sono\x20le\x20due\x20parti\x20principali\x20di\x20una\x20scheda\x20grafica?','answers':{'a':_0x3d50fe(0x1e8),'b':_0x3d50fe(0x17f),'c':_0x3d50fe(0x218),'d':_0x3d50fe(0x213)},'correctAnswer':'b'},{'question':_0x3d50fe(0x1f5),'answers':{'a':_0x3d50fe(0x190),'b':'Gestisce\x20la\x20memoria\x20del\x20sistema','c':_0x3d50fe(0x176),'d':_0x3d50fe(0x192)},'correctAnswer':'a'},{'question':_0x3d50fe(0x1f0),'answers':{'a':_0x3d50fe(0xea),'b':_0x3d50fe(0xfb),'c':_0x3d50fe(0x24b),'d':'Dati\x20di\x20rete'},'correctAnswer':'a'},{'question':_0x3d50fe(0xf0),'answers':{'a':_0x3d50fe(0x1c0),'b':_0x3d50fe(0x237),'c':_0x3d50fe(0x1bf),'d':_0x3d50fe(0xc8)},'correctAnswer':'a'},{'question':_0x3d50fe(0x257),'answers':{'a':_0x3d50fe(0x19f),'b':'La\x20capacità\x20della\x20memoria\x20video','c':_0x3d50fe(0x222),'d':_0x3d50fe(0x1b4)},'correctAnswer':'a'},{'question':'Qual\x20è\x20il\x20vantaggio\x20di\x20una\x20GPU\x20con\x20più\x20core?','answers':{'a':_0x3d50fe(0xd8),'b':_0x3d50fe(0x206),'c':_0x3d50fe(0x1ac),'d':_0x3d50fe(0xff)},'correctAnswer':'a'},{'question':_0x3d50fe(0x26b),'answers':{'a':_0x3d50fe(0x1a6),'b':_0x3d50fe(0x25f),'c':_0x3d50fe(0x15c),'d':_0x3d50fe(0x1e8)},'correctAnswer':'a'},{'question':_0x3d50fe(0x10f),'answers':{'a':'Una\x20tecnologia\x20per\x20simulare\x20il\x20comportamento\x20realistico\x20della\x20luce','b':_0x3d50fe(0x171),'c':_0x3d50fe(0xe1),'d':_0x3d50fe(0x208)},'correctAnswer':'a'},{'question':_0x3d50fe(0x21c),'answers':{'a':_0x3d50fe(0x1f3),'b':_0x3d50fe(0xc6),'c':_0x3d50fe(0x1d8),'d':_0x3d50fe(0x248)},'correctAnswer':'a'},{'question':_0x3d50fe(0x18c),'answers':{'a':_0x3d50fe(0x20c),'b':'La\x20dimensione\x20del\x20monitor\x20collegato','c':'La\x20velocità\x20del\x20disco\x20rigido','d':'La\x20quantità\x20di\x20RAM\x20del\x20sistema'},'correctAnswer':'a'},{'question':'Quali\x20marche\x20di\x20schede\x20grafiche\x20sono\x20comunemente\x20utilizzate?','answers':{'a':_0x3d50fe(0x260),'b':_0x3d50fe(0x138),'c':'Microsoft\x20e\x20Apple','d':_0x3d50fe(0x121)},'correctAnswer':'a'},{'question':_0x3d50fe(0x155),'answers':{'a':'Meno\x20memoria\x20video','b':_0x3d50fe(0x1b9),'c':'Una\x20GPU\x20più\x20potente','d':_0x3d50fe(0x214)},'correctAnswer':'a'},{'question':_0x3d50fe(0x21b),'answers':{'a':'Elaborare\x20immagini\x20complesse\x20e\x20animazioni\x20fluide','b':_0x3d50fe(0x23f),'c':'Gestire\x20i\x20file\x20di\x20sistema','d':_0x3d50fe(0x1a2)},'correctAnswer':'a'},{'question':'Quale\x20componente\x20memorizza\x20i\x20dati\x20grafici\x20prima\x20che\x20vengano\x20elaborati\x20dalla\x20GPU?','answers':{'a':_0x3d50fe(0x110),'b':_0x3d50fe(0x202),'c':_0x3d50fe(0x1b1),'d':_0x3d50fe(0x278)},'correctAnswer':'a'},{'question':'Cosa\x20fa\x20una\x20GPU\x20con\x20una\x20frequenza\x20di\x20clock\x20più\x20alta?','answers':{'a':_0x3d50fe(0x131),'b':_0x3d50fe(0x195),'c':_0x3d50fe(0x206),'d':_0x3d50fe(0x147)},'correctAnswer':'a'},{'question':'Qual\x20è\x20la\x20funzione\x20della\x20memoria\x20video\x20in\x20una\x20scheda\x20grafica?','answers':{'a':_0x3d50fe(0x10b),'b':_0x3d50fe(0x14f),'c':_0x3d50fe(0x272),'d':_0x3d50fe(0x1cd)},'correctAnswer':'a'},{'question':_0x3d50fe(0x1ef),'answers':{'a':_0x3d50fe(0x232),'b':_0x3d50fe(0x15e),'c':_0x3d50fe(0x12c),'d':_0x3d50fe(0x181)},'correctAnswer':'a'},{'question':_0x3d50fe(0x182),'answers':{'a':_0x3d50fe(0x215),'b':_0x3d50fe(0x1e3),'c':_0x3d50fe(0x149),'d':_0x3d50fe(0x119)},'correctAnswer':'a'},{'question':'Qual\x20è\x20un\x20uso\x20comune\x20delle\x20schede\x20grafiche\x20di\x20fascia\x20alta\x20oltre\x20al\x20gaming?','answers':{'a':_0x3d50fe(0x21d),'b':_0x3d50fe(0xe4),'c':_0x3d50fe(0x276),'d':_0x3d50fe(0x102)},'correctAnswer':'a'},{'question':_0x3d50fe(0x23d),'answers':{'a':'Memorizza\x20i\x20dati\x20dell\x27utente','b':_0x3d50fe(0x190),'c':_0x3d50fe(0x137),'d':'Controlla\x20l\x27alimentazione\x20del\x20PC'},'correctAnswer':'c'},{'question':_0x3d50fe(0x273),'answers':{'a':_0x3d50fe(0x1b1),'b':_0x3d50fe(0x259),'c':_0x3d50fe(0x1b5),'d':'SSD'},'correctAnswer':'c'},{'question':_0x3d50fe(0x12b),'answers':{'a':'LGA\x201151','b':'LGA\x201700','c':_0x3d50fe(0x136),'d':'AM5'},'correctAnswer':'b'},{'question':_0x3d50fe(0x1d6),'answers':{'a':_0x3d50fe(0x1cc),'b':_0x3d50fe(0x165),'c':_0x3d50fe(0xe6),'d':_0x3d50fe(0x10e)},'correctAnswer':'a'},{'question':_0x3d50fe(0x212),'answers':{'a':_0x3d50fe(0x211),'b':_0x3d50fe(0x268),'c':_0x3d50fe(0x174),'d':_0x3d50fe(0xfc)},'correctAnswer':'b'},{'question':'Che\x20tipo\x20di\x20connettore\x20fornisce\x20alimentazione\x20alla\x20scheda\x20madre?','answers':{'a':_0x3d50fe(0x1bc),'b':'RJ-45','c':_0x3d50fe(0xcf),'d':_0x3d50fe(0x24a)},'correctAnswer':'c'},{'question':_0x3d50fe(0xed),'answers':{'a':'Un\x20modulo\x20per\x20l\x27espansione\x20della\x20RAM','b':_0x3d50fe(0x159),'c':_0x3d50fe(0x253),'d':'Un\x20sistema\x20di\x20raffreddamento'},'correctAnswer':'b'},{'question':_0x3d50fe(0x270),'answers':{'a':_0x3d50fe(0x230),'b':_0x3d50fe(0xfd),'c':'Gestire\x20le\x20connessioni\x20di\x20rete','d':_0x3d50fe(0x133)},'correctAnswer':'a'},{'question':'Qual\x20è\x20il\x20vantaggio\x20dell\x27utilizzo\x20di\x20SSD\x20M.2\x20rispetto\x20agli\x20SSD\x20SATA?','answers':{'a':_0x3d50fe(0xf7),'b':_0x3d50fe(0x1af),'c':'Minore\x20consumo\x20energetico','d':_0x3d50fe(0x11b)},'correctAnswer':'b'},{'question':_0x3d50fe(0xc7),'answers':{'a':'BIOS/UEFI','b':_0x3d50fe(0x10a),'c':_0x3d50fe(0x101),'d':_0x3d50fe(0x23e)},'correctAnswer':'a'},{'question':_0x3d50fe(0x256),'answers':{'a':_0x3d50fe(0x22d),'b':_0x3d50fe(0x1e1),'c':_0x3d50fe(0x161),'d':'SDRAM'},'correctAnswer':'c'},{'question':_0x3d50fe(0x124),'answers':{'a':'Gestire\x20la\x20comunicazione\x20tra\x20CPU,\x20RAM\x20e\x20GPU','b':'Fornire\x20alimentazione\x20alla\x20CPU','c':_0x3d50fe(0x1a8),'d':_0x3d50fe(0x1e6)},'correctAnswer':'a'},{'question':_0x3d50fe(0x1c7),'answers':{'a':'Supporto\x20per\x20CPU\x20e\x20RAM\x20più\x20potenti','b':_0x3d50fe(0xec),'c':'Eliminazione\x20delle\x20porte\x20USB','d':_0x3d50fe(0x221)},'correctAnswer':'a'},{'question':_0x3d50fe(0x1be),'answers':{'a':_0x3d50fe(0x18f),'b':_0x3d50fe(0x239),'c':_0x3d50fe(0x23a),'d':_0x3d50fe(0xc9)},'correctAnswer':'b'},{'question':_0x3d50fe(0x17c),'answers':{'a':_0x3d50fe(0x168),'b':'Connettere\x20la\x20RAM\x20alla\x20CPU','c':_0x3d50fe(0x1b8),'d':'Supportare\x20il\x20chipset\x20Northbridge'},'correctAnswer':'a'},{'question':'Qual\x20è\x20una\x20delle\x20funzioni\x20del\x20BIOS\x20durante\x20l\x27avvio\x20del\x20sistema?','answers':{'a':_0x3d50fe(0x25b),'b':_0x3d50fe(0x20a),'c':'Gestire\x20le\x20connessioni\x20video','d':_0x3d50fe(0x1a8)},'correctAnswer':'a'},{'question':_0x3d50fe(0x265),'answers':{'a':_0x3d50fe(0x235),'b':_0x3d50fe(0x24a),'c':_0x3d50fe(0xe5),'d':_0x3d50fe(0xd9)},'correctAnswer':'c'},{'question':_0x3d50fe(0x12d),'answers':{'a':_0x3d50fe(0x193),'b':_0x3d50fe(0x1fe),'c':_0x3d50fe(0x22c),'d':_0x3d50fe(0x120)},'correctAnswer':'d'},{'question':_0x3d50fe(0x267),'answers':{'a':'Maggiore\x20efficienza\x20energetica','b':_0x3d50fe(0x1a5),'c':_0x3d50fe(0x1ee),'d':_0x3d50fe(0x1a3)},'correctAnswer':'b'},{'question':_0x3d50fe(0x228),'answers':{'a':'Connettività\x20rapida\x20e\x20versatile','b':_0x3d50fe(0xcb),'c':_0x3d50fe(0x1c2),'d':_0x3d50fe(0x117)},'correctAnswer':'a'},{'question':_0x3d50fe(0x22b),'answers':{'a':_0x3d50fe(0x164),'b':_0x3d50fe(0x264),'c':'Gestire\x20le\x20connessioni\x20di\x20rete','d':_0x3d50fe(0x198)},'correctAnswer':'b'},{'question':'Che\x20tipo\x20di\x20memoria\x20è\x20la\x20RAM?','answers':{'a':'Memoria\x20permanente','b':_0x3d50fe(0x203),'c':_0x3d50fe(0xc5),'d':_0x3d50fe(0x139)},'correctAnswer':'b'},{'question':'Dove\x20viene\x20installata\x20la\x20RAM\x20all\x27interno\x20del\x20computer?','answers':{'a':'Sulla\x20scheda\x20madre','b':_0x3d50fe(0x148),'c':_0x3d50fe(0xcc),'d':_0x3d50fe(0x178)},'correctAnswer':'a'},{'question':_0x3d50fe(0xdf),'answers':{'a':_0x3d50fe(0xe7),'b':'DDR','c':'DDR2','d':'DDR4'},'correctAnswer':'a'},{'question':'Qual\x20è\x20stata\x20la\x20principale\x20innovazione\x20introdotta\x20dalla\x20DDR\x20rispetto\x20alla\x20SDRAM?','answers':{'a':'Maggior\x20capacità','b':_0x3d50fe(0x1ec),'c':'Velocità\x20di\x20trasmissione\x20doppia','d':_0x3d50fe(0x216)},'correctAnswer':'c'},{'question':_0x3d50fe(0x1bb),'answers':{'a':_0x3d50fe(0x1e1),'b':_0x3d50fe(0x22f),'c':_0x3d50fe(0x20d),'d':_0x3d50fe(0x22d)},'correctAnswer':'c'},{'question':'Quali\x20sono\x20i\x20principali\x20fattori\x20che\x20differenziano\x20le\x20varie\x20versioni\x20di\x20DDR\x20RAM?','answers':{'a':_0x3d50fe(0x196),'b':_0x3d50fe(0x175),'c':_0x3d50fe(0xf8),'d':_0x3d50fe(0x258)},'correctAnswer':'b'},{'question':_0x3d50fe(0x132),'answers':{'a':_0x3d50fe(0x11f),'b':_0x3d50fe(0x1b3),'c':_0x3d50fe(0x1f4),'d':_0x3d50fe(0xe0)},'correctAnswer':'b'},{'question':_0x3d50fe(0x271),'answers':{'a':_0x3d50fe(0x22d),'b':_0x3d50fe(0x22f),'c':_0x3d50fe(0x1e1),'d':_0x3d50fe(0xe7)},'correctAnswer':'c'},{'question':_0x3d50fe(0xd7),'answers':{'a':_0x3d50fe(0x161),'b':_0x3d50fe(0x173),'c':_0x3d50fe(0x146),'d':'Tutte\x20le\x20risposte\x20precedenti'},'correctAnswer':'d'},{'question':_0x3d50fe(0x234),'answers':{'a':_0x3d50fe(0x170),'b':_0x3d50fe(0x11b),'c':_0x3d50fe(0xeb),'d':_0x3d50fe(0x249)},'correctAnswer':'a'},{'question':_0x3d50fe(0x126),'answers':{'a':_0x3d50fe(0x111),'b':_0x3d50fe(0xf1),'c':_0x3d50fe(0x241),'d':'Fornire\x20energia\x20al\x20sistema'},'correctAnswer':'b'},{'question':'Quale\x20caratteristica\x20rende\x20la\x20DDR4\x20più\x20efficiente\x20della\x20DDR3?','answers':{'a':_0x3d50fe(0x16c),'b':'Consumo\x20energetico\x20ridotto','c':_0x3d50fe(0x254),'d':_0x3d50fe(0x240)},'correctAnswer':'d'},{'question':'Perché\x20non\x20è\x20possibile\x20utilizzare\x20una\x20RAM\x20DDR4\x20su\x20una\x20scheda\x20madre\x20che\x20supporta\x20solo\x20DDR3?','answers':{'a':_0x3d50fe(0x1a1),'b':_0x3d50fe(0x26c),'c':'Perché\x20la\x20DDR4\x20è\x20troppo\x20veloce','d':_0x3d50fe(0x1fb)},'correctAnswer':'a'},{'question':_0x3d50fe(0x1a9),'answers':{'a':_0x3d50fe(0x1d5),'b':_0x3d50fe(0x20e),'c':_0x3d50fe(0xee),'d':_0x3d50fe(0x11e)},'correctAnswer':'b'},{'question':_0x3d50fe(0x219),'answers':{'a':_0x3d50fe(0xe3),'b':_0x3d50fe(0x25e),'c':_0x3d50fe(0xe9),'d':'La\x20DDR\x20è\x20compatibile\x20con\x20tutte\x20le\x20schede\x20madri'},'correctAnswer':'b'},{'question':_0x3d50fe(0x1f6),'answers':{'a':'DDR2','b':_0x3d50fe(0x1e1),'c':_0x3d50fe(0x22f),'d':'DDR5'},'correctAnswer':'a'},{'question':_0x3d50fe(0x191),'answers':{'a':'DDR5','b':'DDR4','c':_0x3d50fe(0x1e1),'d':_0x3d50fe(0xe7)},'correctAnswer':'a'},{'question':'Perché\x20è\x20importante\x20scegliere\x20la\x20RAM\x20giusta\x20per\x20il\x20proprio\x20computer?','answers':{'a':_0x3d50fe(0x225),'b':_0x3d50fe(0xfe),'c':_0x3d50fe(0x23b),'d':_0x3d50fe(0x1ea)},'correctAnswer':'a'},{'question':_0x3d50fe(0xd2),'answers':{'a':_0x3d50fe(0x135),'b':_0x3d50fe(0x1f1),'c':_0x3d50fe(0x24c),'d':_0x3d50fe(0x1c1)},'correctAnswer':'a'},{'question':'Qual\x20è\x20la\x20principale\x20differenza\x20tra\x20memoria\x20volatile\x20e\x20memoria\x20di\x20massa?','answers':{'a':'La\x20memoria\x20volatile\x20conserva\x20i\x20dati\x20dopo\x20lo\x20spegnimento\x20del\x20computer','b':_0x3d50fe(0x157),'c':_0x3d50fe(0x22e),'d':'La\x20memoria\x20di\x20massa\x20è\x20più\x20veloce\x20della\x20memoria\x20volatile'},'correctAnswer':'b'},{'question':_0x3d50fe(0x255),'answers':{'a':_0x3d50fe(0x238),'b':'USB','c':_0x3d50fe(0xf3),'d':_0x3d50fe(0x246)},'correctAnswer':'c'},{'question':_0x3d50fe(0x1e9),'answers':{'a':_0x3d50fe(0x160),'b':_0x3d50fe(0x16f),'c':_0x3d50fe(0x20b),'d':_0x3d50fe(0x186)},'correctAnswer':'b'},{'question':_0x3d50fe(0x1b0),'answers':{'a':'La\x20quantità\x20di\x20memoria','b':_0x3d50fe(0xf9),'c':_0x3d50fe(0x243),'d':_0x3d50fe(0x1d3)},'correctAnswer':'b'},{'question':_0x3d50fe(0x231),'answers':{'a':_0x3d50fe(0x129),'b':'Utilizzano\x20dischi\x20rotanti\x20magnetici','c':_0x3d50fe(0x275),'d':'Sono\x20più\x20economici\x20degli\x20HDD'},'correctAnswer':'c'},{'question':_0x3d50fe(0xdb),'answers':{'a':_0x3d50fe(0x223),'b':'Maggiore\x20capacità\x20di\x20archiviazione','c':_0x3d50fe(0x1b2),'d':_0x3d50fe(0x162)},'correctAnswer':'c'},{'question':'Quale\x20dispositivo\x20di\x20archiviazione\x20è\x20più\x20resistente\x20agli\x20urti?','answers':{'a':_0x3d50fe(0xf3),'b':_0x3d50fe(0x238),'c':'RAM','d':_0x3d50fe(0x229)},'correctAnswer':'b'},{'question':'Qual\x20è\x20lo\x20svantaggio\x20principale\x20degli\x20SSD\x20rispetto\x20agli\x20HDD?','answers':{'a':_0x3d50fe(0x1a4),'b':_0x3d50fe(0x115),'c':_0x3d50fe(0x236),'d':_0x3d50fe(0x1ff)},'correctAnswer':'c'},{'question':_0x3d50fe(0x1b7),'answers':{'a':'RAM','b':_0x3d50fe(0xf3),'c':_0x3d50fe(0x238),'d':'Memorie\x20USB'},'correctAnswer':'d'},{'question':'Qual\x20è\x20la\x20capacità\x20massima\x20tipica\x20di\x20una\x20memoria\x20USB?','answers':{'a':_0x3d50fe(0x169),'b':_0x3d50fe(0x1c4),'c':_0x3d50fe(0x1de),'d':_0x3d50fe(0x112)},'correctAnswer':'a'},{'question':_0x3d50fe(0x1a7),'answers':{'a':_0x3d50fe(0x13a),'b':_0x3d50fe(0x189),'c':_0x3d50fe(0x107),'d':_0x3d50fe(0xfa)},'correctAnswer':'a'},{'question':_0x3d50fe(0x17b),'answers':{'a':_0x3d50fe(0x263),'b':_0x3d50fe(0x1da),'c':_0x3d50fe(0x1ed),'d':'RAM\x20e\x20ROM'},'correctAnswer':'c'},{'question':_0x3d50fe(0x15a),'answers':{'a':_0x3d50fe(0xf2),'b':'Classe\x20di\x20velocità\x20che\x20determina\x20la\x20capacità\x20di\x20trasferire\x20dati\x20rapidamente','c':_0x3d50fe(0x13f),'d':_0x3d50fe(0xdd)},'correctAnswer':'b'},{'question':_0x3d50fe(0x17a),'answers':{'a':'Sono\x20più\x20lente\x20delle\x20schede\x20di\x20memoria','b':_0x3d50fe(0x224),'c':_0x3d50fe(0x162),'d':_0x3d50fe(0x1d2)},'correctAnswer':'b'},{'question':'In\x20cosa\x20gli\x20HDD\x20sono\x20generalmente\x20superiori\x20rispetto\x20agli\x20SSD?','answers':{'a':_0x3d50fe(0x1db),'b':'Resistenza\x20agli\x20urti','c':'Costo\x20per\x20GB','d':_0x3d50fe(0x22a)},'correctAnswer':'c'},{'question':'Perché\x20gli\x20SSD\x20sono\x20preferiti\x20per\x20il\x20caricamento\x20del\x20sistema\x20operativo\x20rispetto\x20agli\x20HDD?','answers':{'a':'Hanno\x20una\x20capacità\x20maggiore','b':_0x3d50fe(0x1c8),'c':_0x3d50fe(0x113),'d':_0x3d50fe(0xde)},'correctAnswer':'c'},{'question':_0x3d50fe(0x20f),'answers':{'a':_0x3d50fe(0x238),'b':'Memoria\x20USB','c':_0x3d50fe(0xf3),'d':'Scheda\x20di\x20memoria'},'correctAnswer':'c'},{'question':_0x3d50fe(0x134),'answers':{'a':'Maggiore\x20velocità\x20di\x20trasferimento','b':_0x3d50fe(0x187),'c':_0x3d50fe(0x1ad),'d':'Costo\x20per\x20GB\x20inferiore'},'correctAnswer':'c'},{'question':_0x3d50fe(0x1e5),'answers':{'a':_0x3d50fe(0x194),'b':_0x3d50fe(0x277),'c':_0x3d50fe(0x24d),'d':_0x3d50fe(0x17d)},'correctAnswer':'c'},{'question':_0x3d50fe(0x1c5),'answers':{'a':_0x3d50fe(0xd4),'b':'Le\x20esigenze\x20di\x20velocità\x20e\x20la\x20quantità\x20di\x20dati\x20da\x20archiviare','c':_0x3d50fe(0x172),'d':_0x3d50fe(0x123)},'correctAnswer':'b'}];let _0x5421a5,_0x3c1251=0x78,_0x779d=0x0,_0x160c73=0x0;function _0x38308b(){_0x3c1251=0x78,_0x160c73=0x0,_0x52eb74(),_0x5421a5=setInterval(function(){_0x3c1251--,_0x160c73++,_0x3c1251<=0x0&&(clearInterval(_0x5421a5),alert('Tempo\x20scaduto!\x20Le\x20risposte\x20correnti\x20verranno\x20inviate\x20automaticamente.'),_0x5ae339()),_0x52eb74();},0x3e8);}function _0x52eb74(){const _0x235e7d=_0x3d50fe,_0x4bf2d7=document[_0x235e7d(0x13b)]('timerDisplay'),_0x37c717=Math['floor'](_0x3c1251/0x3c),_0x21196e=_0x3c1251%0x3c;_0x4bf2d7[_0x235e7d(0x1ae)]=_0x235e7d(0x1b6)+_0x37c717+':'+(_0x21196e<0xa?'0':'')+_0x21196e;}function _0x1137fa(_0x186d09,_0xd95c49){const _0x321163=_0x3d50fe,_0x2fb7f9=_0x186d09['sort'](()=>0.5-Math[_0x321163(0x261)]());return _0x2fb7f9[_0x321163(0x24e)](0x0,_0xd95c49);}const _0x547f3a=_0x1137fa(_0x38a35f,0x28),_0x1eb3f0=document[_0x3d50fe(0x13b)](_0x3d50fe(0x105)),_0x568492=document[_0x3d50fe(0x13b)]('results'),_0x7f0596=document[_0x3d50fe(0x13b)](_0x3d50fe(0x1d4)),_0xc46c24=document['createElement'](_0x3d50fe(0x158));_0xc46c24['max']=0x64,_0xc46c24[_0x3d50fe(0x152)]=0x0,_0xc46c24[_0x3d50fe(0x150)][_0x3d50fe(0x106)]='none',_0x7f0596[_0x3d50fe(0x150)][_0x3d50fe(0x106)]=_0x3d50fe(0x21e);const _0x5759fc=document[_0x3d50fe(0x1aa)](_0x3d50fe(0x1c3));_0x5759fc[_0x3d50fe(0x1f9)](_0xc46c24,_0x1eb3f0);let _0x41dab1=0x0,_0x4fa985=0x0;const _0x35ef5e=0x4,_0x519659=_0x547f3a[_0x3d50fe(0x125)];let _0x43cacf={'nome':'','cognome':'','gruppo':'','risultatiIntermedi':[]};function _0x1908aa(){const _0x37e214=_0x3d50fe;document[_0x37e214(0x13b)]('timerDisplay')[_0x37e214(0x150)][_0x37e214(0x106)]=_0x37e214(0x21e),_0x1eb3f0[_0x37e214(0x1e4)]=_0x37e214(0x104),document['getElementById'](_0x37e214(0x227))[_0x37e214(0x274)](_0x37e214(0x21a),function(){const _0x3ee6bb=_0x37e214,_0x1e29ba=document['getElementById']('nome')['value'],_0x269871=document[_0x3ee6bb(0x13b)](_0x3ee6bb(0x14b))[_0x3ee6bb(0x152)],_0x5b12da=document[_0x3ee6bb(0x13b)]('gruppo')[_0x3ee6bb(0x152)];_0x1e29ba&&_0x269871&&_0x5b12da?(_0x43cacf[_0x3ee6bb(0x1c6)]=_0x1e29ba,_0x43cacf[_0x3ee6bb(0x14b)]=_0x269871,_0x43cacf[_0x3ee6bb(0x16d)]=_0x5b12da,_0xc46c24[_0x3ee6bb(0x150)][_0x3ee6bb(0x106)]=_0x3ee6bb(0xef),_0x7f0596[_0x3ee6bb(0x150)][_0x3ee6bb(0x106)]=_0x3ee6bb(0xef),_0xe1f28c()):alert(_0x3ee6bb(0x1d7));});}function _0xe1f28c(){const _0x18aac8=_0x3d50fe;_0x41dab1===0x0&&(document[_0x18aac8(0x13b)]('timerDisplay')['style'][_0x18aac8(0x106)]=_0x18aac8(0xef));clearInterval(_0x5421a5),_0x38308b();const _0x2e3743=[],_0x4560c9=_0x41dab1+_0x35ef5e,_0x3c7722=_0x547f3a[_0x18aac8(0x24e)](_0x41dab1,_0x4560c9);_0x3c7722['forEach']((_0xa9e4a2,_0x12d851)=>{const _0x3aea2d=_0x18aac8,_0x10529b=[];for(letter in _0xa9e4a2[_0x3aea2d(0x1cb)]){_0x10529b[_0x3aea2d(0x25c)](_0x3aea2d(0x19d)+_0x12d851+_0x3aea2d(0x11c)+letter+_0x3aea2d(0x127)+letter+':\x20'+_0xa9e4a2[_0x3aea2d(0x1cb)][letter]+_0x3aea2d(0x197));}const _0x4cd447=_0xa9e4a2['image']?_0x3aea2d(0x108)+_0xa9e4a2[_0x3aea2d(0x151)]+_0x3aea2d(0x217):'';_0x2e3743['push'](_0x3aea2d(0x251)+_0xa9e4a2[_0x3aea2d(0x14c)]+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x4cd447+_0x3aea2d(0x1e0)+_0x10529b[_0x3aea2d(0x188)]('')+'</div>');}),_0x1eb3f0[_0x18aac8(0x1e4)]=_0x2e3743[_0x18aac8(0x188)](''),_0xc46c24[_0x18aac8(0x152)]=_0x41dab1/_0x519659*0x64+0x14;}function _0x1abbb6(){const _0x3f9fec=_0x3d50fe,_0x29395f=_0x1eb3f0[_0x3f9fec(0x26f)]('.answers'),_0x2d06f1=_0x41dab1+_0x35ef5e,_0x51cbc1=_0x547f3a[_0x3f9fec(0x24e)](_0x41dab1,_0x2d06f1);let _0x57b8b4=0x0;_0x43cacf[_0x3f9fec(0xd3)]['push']({'fase':_0x41dab1/_0x35ef5e+0x1,'risposteCorretteInSet':_0x57b8b4,'tempoImpiegatoInSet':_0x160c73}),_0x779d+=_0x160c73,_0x51cbc1[_0x3f9fec(0xcd)]((_0x3ea0f7,_0x1f8e68)=>{const _0x215d1c=_0x3f9fec,_0x486d94=_0x29395f[_0x1f8e68],_0x7c813d='input[name=question'+_0x1f8e68+']:checked',_0x1612e2=(_0x486d94[_0x215d1c(0x1aa)](_0x7c813d)||{})['value'];_0x1612e2===_0x3ea0f7['correctAnswer']?(_0x4fa985++,_0x57b8b4++,_0x486d94['classList']['add'](_0x215d1c(0x21f))):_0x486d94[_0x215d1c(0x13c)][_0x215d1c(0x1fa)](_0x215d1c(0x17e));}),_0x43cacf['risultatiIntermedi'][_0x3f9fec(0x25c)]({'fase':_0x41dab1/_0x35ef5e+0x1,'risposteCorretteInSet':_0x57b8b4});let _0x52b6c2='',_0x3bbf25='';if(_0x57b8b4===0x4)_0x52b6c2='OTTIMO!\x20Sei\x20un\x20fenomeno!',_0x3bbf25=_0x3f9fec(0x14e);else{if(_0x57b8b4===0x3)_0x52b6c2=_0x3f9fec(0x156),_0x3bbf25=_0x3f9fec(0x269);else _0x57b8b4===0x2?(_0x52b6c2=_0x3f9fec(0x14a),_0x3bbf25='feedback-emozionato'):(_0x52b6c2=_0x3f9fec(0x184),_0x3bbf25=_0x3f9fec(0x1eb));}_0x58d581(_0x52b6c2,_0x3bbf25),_0x568492[_0x3f9fec(0x1e4)]=_0x3f9fec(0xf5)+_0x52b6c2+_0x3f9fec(0x12a),_0x7f0596[_0x3f9fec(0x1ae)]=_0x3f9fec(0x247);}function _0x58d581(_0x351a33,_0xb418ee){const _0xa6e83f=_0x3d50fe,_0x2f2b6b=document[_0xa6e83f(0x23c)]('div');_0x2f2b6b[_0xa6e83f(0x13c)]['add'](_0xa6e83f(0x163),_0xb418ee),_0x2f2b6b[_0xa6e83f(0x1ae)]=_0x351a33,document[_0xa6e83f(0xf6)][_0xa6e83f(0x226)](_0x2f2b6b),_0x2f2b6b['style'][_0xa6e83f(0x106)]=_0xa6e83f(0xef),setTimeout(()=>{const _0x2464fe=_0xa6e83f;_0x2f2b6b[_0x2464fe(0x150)][_0x2464fe(0x106)]=_0x2464fe(0x21e),document['body'][_0x2464fe(0x116)](_0x2f2b6b);},0x3e8);}function _0x5ae339(){const _0x4b3b65=_0x3d50fe;clearInterval(_0x5421a5);const _0x17de32=_0x41dab1+_0x35ef5e>=_0x547f3a[_0x4b3b65(0x125)];if(_0x7f0596[_0x4b3b65(0x1ae)]===_0x4b3b65(0x114))_0x1abbb6();else _0x7f0596[_0x4b3b65(0x1ae)]===_0x4b3b65(0x247)&&(_0x41dab1+=_0x35ef5e,!_0x17de32?(_0xe1f28c(),_0x7f0596[_0x4b3b65(0x1ae)]=_0x4b3b65(0x114)):(_0x1eb3f0[_0x4b3b65(0x1e4)]='',_0x568492['innerHTML']=_0x4b3b65(0x145)+_0x4fa985+_0x4b3b65(0x245)+_0x519659+_0x4b3b65(0x12a),_0x7f0596[_0x4b3b65(0x150)]['display']=_0x4b3b65(0x21e),_0x44b176()));_0x17de32&&(_0x1eb3f0[_0x4b3b65(0x1e4)]='',_0x568492[_0x4b3b65(0x1e4)]=_0x4b3b65(0xe2)+_0x4fa985+_0x4b3b65(0x245)+_0x519659+_0x4b3b65(0x1ba)+Math[_0x4b3b65(0x1e2)](_0x779d/0x3c)+_0x4b3b65(0x10d)+_0x779d%0x3c+_0x4b3b65(0x18b),_0x7f0596[_0x4b3b65(0x150)][_0x4b3b65(0x106)]='none',_0x44b176());}function _0x44b176(){const _0x127be5=_0x3d50fe,_0x400009={'nome':_0x43cacf[_0x127be5(0x1c6)],'cognome':_0x43cacf[_0x127be5(0x14b)],'gruppo':_0x43cacf[_0x127be5(0x16d)],'risposte_corrette':_0x4fa985,'domande_totali':_0x519659,'risultati_intermedi':_0x43cacf['risultatiIntermedi'],'tempo_totale':_0x779d},_0x35bfb2=new Blob([JSON['stringify'](_0x400009,null,0x2)],{'type':_0x127be5(0x13e)}),_0x8e6c04=URL[_0x127be5(0x18d)](_0x35bfb2),_0x1639e9=document[_0x127be5(0x23c)]('a');_0x1639e9[_0x127be5(0x1df)]=_0x8e6c04,_0x1639e9[_0x127be5(0x12f)]=_0x43cacf[_0x127be5(0x1c6)][_0x127be5(0x1f7)]('\x20','_')+'_'+_0x43cacf[_0x127be5(0x14b)][_0x127be5(0x1f7)]('\x20','_')+'_risultati_quiz.json',document[_0x127be5(0xf6)]['appendChild'](_0x1639e9),_0x1639e9[_0x127be5(0x21a)](),document[_0x127be5(0xf6)]['removeChild'](_0x1639e9);}_0x1908aa(),_0x7f0596[_0x3d50fe(0x274)](_0x3d50fe(0x21a),_0x5ae339);}));function _0x48db(){const _0x270519=['Overclock','Una\x20GPU\x20più\x20potente','Una\x20memoria\x20che\x20si\x20connette\x20via\x20USB','Cosa\x20fa\x20la\x20GPU\x20in\x20una\x20scheda\x20grafica?','Quale\x20di\x20queste\x20versioni\x20di\x20RAM\x20è\x20stata\x20la\x20prima\x20a\x20ridurre\x20significativamente\x20il\x20consumo\x20energetico\x20rispetto\x20alla\x20DDR?','replace','Riduce\x20il\x20consumo\x20energetico','insertBefore','add','Perché\x20la\x20DDR3\x20è\x20più\x20vecchia','Elaborare\x20i\x20dati\x20e\x20le\x20istruzioni','Turbo\x20Boost','PCIe\x20x4','Non\x20possono\x20essere\x20usati\x20per\x20backup','151775ernwOY','Gestisce\x20più\x20operazioni\x20contemporaneamente','Disco\x20rigido','Memoria\x20volatile','Smart\x20Cache','Maggiore\x20velocità\x20di\x20clock','Utilizza\x20meno\x20energia','Il\x20numero\x20di\x20operazioni\x20simultanee\x20che\x20può\x20eseguire','Una\x20funzione\x20per\x20aumentare\x20la\x20memoria','356806WvBtPj','Aumentare\x20la\x20capacità\x20di\x20storage','Da\x20128\x20GB\x20a\x20512\x20GB','La\x20potenza\x20della\x20GPU\x20e\x20la\x20memoria\x20video','DDR5','2014','Quale\x20dispositivo\x20di\x20archiviazione\x20è\x20ideale\x20per\x20backup\x20di\x20grandi\x20quantità\x20di\x20dati\x20a\x20basso\x20costo?','Intel\x20Core\x20i9','CPU','Quale\x20dei\x20seguenti\x20componenti\x20si\x20collega\x20agli\x20slot\x20di\x20espansione\x20PCIe?','Alimentatore\x20e\x20ventola','Tecnologie\x20avanzate\x20di\x20intelligenza\x20artificiale','La\x20quantità\x20di\x20dati\x20che\x20la\x20memoria\x20video\x20può\x20trasferire\x20in\x20un\x20secondo','Minore\x20consumo\x20energetico','\x22\x20alt=\x22Resistenza\x22\x20class=\x22resistance-image\x22>','Northbridge\x20e\x20Southbridge','Qual\x20è\x20la\x20differenza\x20principale\x20tra\x20SDRAM\x20e\x20DDR\x20RAM?','click','Per\x20cosa\x20viene\x20utilizzata\x20una\x20scheda\x20grafica\x20in\x20un\x20computer\x20dedicato\x20al\x20gaming?','Qual\x20è\x20uno\x20dei\x20principali\x20vantaggi\x20delle\x20schede\x20grafiche\x20di\x20fascia\x20alta?','Rendering\x203D\x20professionale','none','correct','La\x20CPU\x20con\x208\x20core\x20ha\x20una\x20frequenza\x20maggiore','Abolizione\x20delle\x20slot\x20di\x20espansione','La\x20quantità\x20di\x20dati\x20che\x20può\x20memorizzare','Costo\x20inferiore','Sono\x20facili\x20da\x20trasportare\x20e\x20leggere\x20su\x20vari\x20dispositivi','Per\x20migliorare\x20le\x20prestazioni\x20e\x20garantire\x20la\x20compatibilità\x20con\x20la\x20scheda\x20madre','appendChild','startQuiz','Cosa\x20indicano\x20le\x20porte\x20USB-C\x20presenti\x20sulle\x20schede\x20madri\x20moderne?','Cache','Durata\x20nel\x20tempo','Qual\x20è\x20la\x20funzione\x20principale\x20della\x20RAM\x20in\x20un\x20computer?','PCIe\x20x8','DDR2','La\x20memoria\x20volatile\x20ha\x20capacità\x20maggiore\x20rispetto\x20alla\x20memoria\x20di\x20massa','DDR4','Connettere\x20dispositivi\x20di\x20archiviazione\x20come\x20SSD\x20e\x20HDD','Quale\x20delle\x20seguenti\x20affermazioni\x20è\x20vera\x20riguardo\x20agli\x20SSD?','Prestazioni\x20ottimizzate\x20per\x20carichi\x20di\x20lavoro\x20intensivi','Cosa\x20significa\x20la\x20sigla\x20\x27X\x27\x20nel\x20nome\x20AMD\x20Ryzen\x207\x205800X?','Qual\x20è\x20un\x20vantaggio\x20dell\x27utilizzo\x20della\x20DDR5\x20rispetto\x20alla\x20DDR4?','USB-C','Costo\x20superiore\x20per\x20GB','Il\x20tipo\x20di\x20alimentatore','SSD','Accesso\x20a\x20internet\x20wireless','Memorizzazione\x20di\x20dati\x20utente','Per\x20migliorare\x20le\x20prestazioni\x20della\x20scheda\x20video','createElement','Qual\x20è\x20il\x20ruolo\x20principale\x20della\x20scheda\x20madre\x20in\x20un\x20computer?','Slot\x20PCIe','Memorizzare\x20dati\x20temporanei','Tutte\x20le\x20risposte\x20precedenti','Gestire\x20le\x20connessioni\x20tra\x20dispositivi','12ª\x20generazione','Il\x20numero\x20di\x20file\x20memorizzati','Elaborare\x20e\x20visualizzare\x20immagini\x20sullo\x20schermo','\x20domande\x20su\x20','Schede\x20di\x20memoria','Vai\x20avanti','Il\x20supporto\x20per\x20più\x20monitor','Miglioramento\x20delle\x20prestazioni\x20del\x20processore','HDMI','File\x20di\x20sistema','Compatibilità\x20con\x20schede\x20madri\x20più\x20vecchie','Non\x20hanno\x20parti\x20meccaniche','slice','9ª\x20generazione','Quale\x20generazione\x20di\x20CPU\x20Intel\x20utilizza\x20il\x20socket\x20LGA\x201700?','<div\x20class=\x22question\x22>','Il\x20numero\x20di\x20transistor','Un\x20tipo\x20di\x20connessione\x20USB','Maggior\x20capacità\x20di\x20archiviazione\x20temporanea','Quale\x20tipo\x20di\x20memoria\x20di\x20massa\x20utilizza\x20dischi\x20rotanti\x20magnetici\x20per\x20salvare\x20i\x20dati?','Che\x20tipo\x20di\x20RAM\x20viene\x20tipicamente\x20utilizzata\x20nelle\x20schede\x20madri\x20moderne?','Cosa\x20indica\x20la\x20frequenza\x20di\x20clock\x20in\x20una\x20GPU?','Il\x20tipo\x20di\x20connessione\x20e\x20la\x20lunghezza\x20dei\x20moduli','GPU','Quale\x20dei\x20seguenti\x20termini\x20indica\x20la\x20velocità\x20di\x20una\x20CPU?','Effettuare\x20il\x20Power-On\x20Self-Test\x20(POST)','push','Modello\x20con\x20GPU\x20integrata','La\x20DDR\x20ha\x20una\x20velocità\x20di\x20trasmissione\x20dati\x20doppia\x20rispetto\x20alla\x20SDRAM','Wi-Fi\x20e\x20Bluetooth','Nvidia\x20e\x20AMD','random','Maggiore\x20efficienza\x20energetica\x20e\x20prestazioni','HDD\x20e\x20SSD','Memorizzare\x20temporaneamente\x20i\x20dati\x20e\x20le\x20istruzioni\x20usate\x20dal\x20processore','Quale\x20porta\x20I/O\x20viene\x20utilizzata\x20per\x20connettere\x20il\x20cavo\x20Ethernet\x20alla\x20scheda\x20madre?','Cosa\x20rappresenta\x20il\x20termine\x20\x27core\x27\x20in\x20una\x20CPU?','Qual\x20è\x20il\x20vantaggio\x20del\x20formato\x20M.2\x20rispetto\x20ai\x20tradizionali\x20SSD\x20SATA?','Schede\x20video','feedback-bravo','La\x20CPU\x20con\x208\x20core\x20può\x20eseguire\x20più\x20operazioni\x20contemporaneamente','Quali\x20tecnologie\x20avanzate\x20possono\x20migliorare\x20la\x20qualità\x20di\x20una\x20scheda\x20grafica?','Perché\x20la\x20DDR4\x20consuma\x20troppa\x20energia','Controllare\x20le\x20connessioni\x20di\x20rete','La\x20CPU\x20con\x20\x27K\x27\x20ha\x20una\x20GPU\x20integrata','querySelectorAll','Qual\x20è\x20la\x20funzione\x20principale\x20dei\x20connettori\x20SATA\x20sulla\x20scheda\x20madre?','Quale\x20versione\x20di\x20RAM\x20è\x20stata\x20la\x20prima\x20a\x20ridurre\x20significativamente\x20il\x20consumo\x20energetico\x20rispetto\x20alla\x20precedente?','Fornire\x20alimentazione\x20alla\x20GPU','Quale\x20componente\x20si\x20inserisce\x20nel\x20socket\x20della\x20CPU\x20sulla\x20scheda\x20madre?','addEventListener','Non\x20hanno\x20parti\x20mobili','Controllo\x20del\x20sistema\x20operativo','Richiedono\x20più\x20energia\x20per\x20funzionare','Cache\x20CPU','Memoria\x20ottica','Un\x20alimentatore\x20integrato','Quale\x20componente\x20della\x20scheda\x20madre\x20inizializza\x20l\x27hardware\x20e\x20carica\x20il\x20sistema\x20operativo?','Il\x20tipo\x20di\x20monitor\x20collegato','Supporto\x20per\x20dispositivi\x20esterni','472pAstIC','Compatibilità\x20solo\x20con\x20dispositivi\x20Apple','Nella\x20GPU','forEach','Intel\x20Celeron','ATX\x2024-pin','11731Tnjoax','Una\x20CPU\x20ottimizzata\x20per\x20il\x20risparmio\x20energetico','Qual\x20è\x20la\x20caratteristica\x20principale\x20della\x20memoria\x20DDR2\x20rispetto\x20alla\x20DDR?','risultatiIntermedi','Le\x20dimensioni\x20dello\x20schermo\x20del\x20computer','Utilizzare\x20meno\x20core','Thread\x20Count','Quale\x20di\x20queste\x20versioni\x20di\x20RAM\x20è\x20compatibile\x20solo\x20con\x20schede\x20madri\x20che\x20supportano\x20specificamente\x20quel\x20tipo?','Elabora\x20più\x20dati\x20contemporaneamente','SATA','99837EQcVGP','Qual\x20è\x20il\x20vantaggio\x20principale\x20degli\x20SSD\x20rispetto\x20agli\x20HDD?','10biWJsT','Utilizzano\x20dischi\x20rotanti','Consumano\x20più\x20energia','Qual\x20è\x20stata\x20la\x20prima\x20forma\x20di\x20RAM\x20sincrona?','Una\x20memoria\x20che\x20conserva\x20solo\x20file\x20di\x20sistema','Un\x20sistema\x20di\x20raffreddamento','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22result-message\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Hai\x20risposto\x20correttamente\x20a\x20','La\x20SDRAM\x20è\x20più\x20veloce\x20della\x20DDR','Gestione\x20della\x20rete','RJ-45','Il\x20raffreddamento\x20del\x20sistema','SDRAM','Memoria\x20per\x20l\x27overclocking','La\x20SDRAM\x20consuma\x20meno\x20energia\x20della\x20DDR','Dati\x20grafici','Maggiore\x20spazio\x20di\x20archiviazione\x20permanente','Riduzione\x20delle\x20dimensioni\x20del\x20Northbridge','Cos\x27è\x20l\x27UEFI\x20in\x20una\x20scheda\x20madre?','2008','block','Qual\x20è\x20un\x20fattore\x20che\x20influenza\x20la\x20potenza\x20di\x20una\x20GPU?','Memorizzare\x20temporaneamente\x20i\x20dati\x20per\x20un\x20accesso\x20rapido','Capacità\x20massima\x20di\x201\x20GB','HDD','Una\x20funzione\x20che\x20riduce\x20il\x20consumo\x20energetico','<div\x20class=\x22result-message\x22>','body','Maggiore\x20capacità\x20di\x20storage','Il\x20prezzo\x20e\x20la\x20compatibilità\x20con\x20i\x20dischi\x20rigidi','La\x20velocità\x20di\x20rotazione\x20dei\x20dischi','Console\x20di\x20gioco','Immagini\x20salvate\x20dall\x27utente','Hard\x20disk','Fornire\x20alimentazione\x20alla\x20CPU','Perché\x20la\x20RAM\x20influenza\x20il\x20consumo\x20energetico\x20del\x20monitor','Migliora\x20la\x20velocità\x20di\x20rete','Il\x20sistema\x20di\x20raffreddamento','Northbridge','Backup\x20dei\x20dati','TDP','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22welcome\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Benvenuto\x20al\x20Quiz\x20sui\x20componenti\x20hardware\x20del\x20PC</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22nome\x22>Nome:</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22nome\x22\x20required><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22cognome\x22>Cognome:</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22cognome\x22\x20required><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22gruppo\x22>Numero\x20Gruppo:</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22gruppo\x22\x20required><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22startQuiz\x22>Inizia\x20il\x20Quiz</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','quiz','display','Server\x20aziendali','<img\x20src=\x22','Total\x20Data\x20Processing','Chipset','Immagazzinare\x20temporaneamente\x20i\x20dati\x20grafici','Qual\x20è\x20il\x20compito\x20principale\x20della\x20CPU\x20in\x20un\x20computer?','\x20minuti\x20e\x20','L\x27alimentazione\x20del\x20sistema','Cosa\x20rappresenta\x20il\x20ray\x20tracing\x20nelle\x20schede\x20grafiche\x20moderne?','Memoria\x20video','Archiviare\x20file\x20importanti\x20a\x20lungo\x20termine','Fino\x20a\x2010\x20TB','Hanno\x20tempi\x20di\x20accesso\x20ai\x20dati\x20molto\x20più\x20rapidi','Invia\x20Risposte','Velocità\x20inferiore','removeChild','Riduzione\x20della\x20capacità\x20di\x20trasferimento\x20dati','La\x20velocità\x20del\x20processore','La\x20dimensione\x20della\x20memoria\x20fisica','La\x20CPU\x20con\x208\x20core\x20consuma\x20meno\x20energia','Compatibilità\x20con\x20tutte\x20le\x20schede\x20madri','\x22\x20value=\x22','Memorizzare\x20i\x20dati','2010','Una\x20memoria\x20che\x20conserva\x20i\x20dati\x20dopo\x20lo\x20spegnimento\x20del\x20computer','PCIe\x20x16','Samsung\x20e\x20Dell','Spazio\x20di\x20archiviazione\x20del\x20sistema','La\x20risoluzione\x20del\x20display','Qual\x20è\x20la\x20funzione\x20del\x20Northbridge\x20nei\x20sistemi\x20più\x20datati?','length','Qual\x20è\x20la\x20funzione\x20principale\x20della\x20RAM\x20durante\x20l\x27esecuzione\x20dei\x20programmi?','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','Qual\x20è\x20il\x20ruolo\x20principale\x20di\x20una\x20scheda\x20grafica\x20in\x20un\x20computer?','Sono\x20più\x20lenti\x20degli\x20HDD','</div>','Quale\x20socket\x20è\x20compatibile\x20con\x20le\x20CPU\x20Intel\x20di\x2012ª\x20generazione?','Una\x20GPU\x20meno\x20potente','Quale\x20tipo\x20di\x20slot\x20PCIe\x20è\x20più\x20comunemente\x20utilizzato\x20per\x20le\x20schede\x20grafiche?','La\x20sigla\x20\x27GHz\x27\x20si\x20riferisce\x20a\x20quale\x20caratteristica\x20di\x20una\x20CPU?','download','Non\x20ci\x20sono\x20differenze\x20rilevanti','Elabora\x20i\x20dati\x20più\x20velocemente','Cosa\x20si\x20intende\x20per\x20memoria\x20volatile?','Supportare\x20schede\x20audio','Qual\x20è\x20un\x20vantaggio\x20delle\x20schede\x20di\x20memoria\x20SD\x20rispetto\x20alle\x20memorie\x20USB?','Velocità\x20di\x20trasmissione\x20più\x20alta\x20e\x20maggiore\x20efficienza\x20energetica','AM4','Gestisce\x20le\x20connessioni\x20tra\x20i\x20componenti\x20hardware','Intel\x20e\x20ARM','Memoria\x20di\x20archiviazione','Fotocamere\x20digitali\x20e\x20smartphone','getElementById','classList','Memoria\x20condivisa\x20tra\x20tutti\x20i\x20core','application/json','Sono\x20più\x20veloci\x20degli\x20SSD','La\x20capacità\x20di\x20una\x20CPU\x20di\x20eseguire\x20più\x20thread\x20su\x20un\x20singolo\x20core','Intel\x20Core\x20i3','Una\x20CPU\x20con\x20più\x20core','Qual\x20è\x20la\x20differenza\x20tra\x20una\x20CPU\x20con\x20\x27K\x27\x20e\x20una\x20senza\x20nelle\x20CPU\x20Intel?','Quale\x20CPU\x20è\x20considerata\x20di\x20fascia\x20alta?','<div\x20class=\x22result-message\x22>Hai\x20risposto\x20correttamente\x20a\x20','DDR3\x20e\x20DDR5','Migliora\x20la\x20connessione\x20internet','Nel\x20disco\x20rigido','La\x20frequenza\x20di\x20clock\x20della\x20GPU','Mmh,\x20forse\x20sei\x20emozionato?','cognome','question','Un\x27unità\x20di\x20elaborazione\x20all\x27interno\x20della\x20CPU','feedback-ottimo','Mantenere\x20i\x20dati\x20in\x20modo\x20permanente','style','image','value','Qual\x20è\x20il\x20vantaggio\x20di\x20una\x20CPU\x20multi-core?','Quale\x20dei\x20seguenti\x20componenti\x20è\x20una\x20parte\x20fondamentale\x20di\x20una\x20CPU?','Qual\x20è\x20una\x20caratteristica\x20delle\x20schede\x20grafiche\x20di\x20fascia\x20bassa?','BRAVO!\x20continua\x20così!','La\x20memoria\x20di\x20massa\x20conserva\x20i\x20dati\x20senza\x20alimentazione','progress','Un\x27interfaccia\x20firmware\x20avanzata\x20per\x20gestire\x20l\x27avvio\x20del\x20sistema','Quale\x20delle\x20seguenti\x20è\x20una\x20caratteristica\x20delle\x20schede\x20di\x20memoria?','Velocità\x20di\x20elaborazione','SSD\x20e\x20HDD','La\x20velocità\x20di\x20elaborazione','Una\x20minore\x20quantità\x20di\x20memoria\x20video','Frequenza','Da\x20pochi\x20MB\x20a\x201\x20GB','DDR4\x20e\x20DDR5','Supportano\x20solo\x20file\x20di\x20piccole\x20dimensioni','feedback-message','Archiviare\x20i\x20dati\x20permanentemente','La\x20memorizzazione\x20dei\x20dati','Thermal\x20Design\x20Power','Cos\x27è\x20l\x27hyper-threading\x20in\x20una\x20CPU?','Gestire\x20la\x20comunicazione\x20tra\x20CPU\x20e\x20periferiche\x20come\x20dischi\x20rigidi\x20e\x20porte\x20USB','Fino\x20a\x201\x20TB','Numero\x20di\x20core','Modello\x20ottimizzato\x20per\x20risparmio\x20energetico','Velocità\x20di\x20trasmissione\x20più\x20elevata','gruppo','La\x20memoria\x20interna\x20della\x20CPU','Da\x20500\x20GB\x20a\x20diversi\x20TB','Miglioramento\x20della\x20velocità\x20di\x20trasmissione\x20e\x20dell\x27efficienza\x20energetica','Un\x20tipo\x20di\x20connessione\x20di\x20rete','Il\x20numero\x20di\x20porte\x20USB\x20disponibili','SDRAM\x20e\x20DDR','Alimentatore','La\x20velocità\x20di\x20trasmissione\x20dei\x20dati,\x20la\x20capacità\x20e\x20l\x27efficienza\x20energetica','Alimenta\x20il\x20computer','Aumentare\x20la\x20frequenza\x20di\x20clock\x20per\x20migliorare\x20le\x20prestazioni','Nel\x20processore','Aumentare\x20la\x20dimensione\x20della\x20cache','Qual\x20è\x20un\x20vantaggio\x20delle\x20memorie\x20di\x20massa\x20USB?','Quali\x20sono\x20i\x20formati\x20comuni\x20delle\x20schede\x20di\x20memoria?','Qual\x20è\x20il\x20ruolo\x20del\x20Southbridge\x20in\x20una\x20scheda\x20madre?','Offrono\x20maggiore\x20capacità\x20di\x20archiviazione','wrong','GPU\x20e\x20memoria\x20video','LGA\x201700','Supporto\x20per\x20meno\x20monitor','Cosa\x20si\x20intende\x20per\x20\x27larghezza\x20di\x20banda\x20della\x20memoria\x27\x20di\x20una\x20GPU?','La\x20capacità\x20della\x20cache','Mi\x20sa\x20che\x20devi\x20studiare\x20di\x20più!','751868dQnPXb','Da\x201\x20TB\x20a\x2010\x20TB','Capacità\x20di\x20archiviazione\x20superiore','join','PC\x20desktop','AM5','\x20secondi.\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','Cosa\x20determina\x20la\x20qualità\x20di\x20una\x20scheda\x20grafica?','createObjectURL','La\x20CPU\x20con\x20\x27K\x27\x20consuma\x20meno\x20energia','Maggiore\x20potenza\x20di\x20calcolo','Elabora\x20i\x20dati\x20grafici','Quale\x20versione\x20di\x20RAM\x20permette\x20velocità\x20di\x20trasmissione\x20e\x20capacità\x20superiori\x20con\x20consumi\x20energetici\x20ridotti?','Controlla\x20il\x20sistema\x20operativo','PCIe\x20x1','Sono\x20più\x20lente','Ha\x20una\x20maggiore\x20capacità\x20di\x20storage','Il\x20colore\x20e\x20la\x20dimensione','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</label>','Alimentare\x20il\x20sistema','Memoria\x20di\x20backup','Qual\x20è\x20il\x20componente\x20che\x20mantiene\x20la\x20CPU\x20a\x20una\x20temperatura\x20sicura\x20durante\x20il\x20funzionamento?','La\x20CPU\x20con\x20\x27K\x27\x20ha\x20più\x20core','Dimensione\x20della\x20cache','<label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22radio\x22\x20name=\x22question','Quale\x20dei\x20seguenti\x20socket\x20è\x20compatibile\x20con\x20le\x20CPU\x20AMD\x20Ryzen\x205000?','La\x20velocità\x20con\x20cui\x20la\x20GPU\x20elabora\x20i\x20dati','LGA\x201151','Perché\x20hanno\x20connessioni\x20fisiche\x20diverse','Aumentare\x20la\x20velocità\x20di\x20rete','Compatibilità\x20con\x20schede\x20madri\x20di\x20vecchia\x20generazione','Durabilità\x20inferiore','Velocità\x20di\x20trasferimento\x20dati\x20più\x20elevata','Ray\x20tracing\x20e\x20intelligenza\x20artificiale','Quali\x20dispositivi\x20utilizzano\x20principalmente\x20le\x20schede\x20di\x20memoria?','Memorizzare\x20i\x20dati\x20temporanei','In\x20che\x20anno\x20è\x20stata\x20introdotta\x20la\x20DDR4?','querySelector','Transfer\x20Data\x20Power','Ha\x20una\x20memoria\x20video\x20più\x20grande','Utilizzo\x20in\x20dispositivi\x20portatili\x20come\x20fotocamere\x20e\x20smartphone','textContent','Maggiore\x20velocità\x20di\x20trasferimento\x20dati','Cosa\x20limita\x20la\x20velocità\x20di\x20accesso\x20ai\x20dati\x20in\x20un\x20HDD?','RAM','Maggiore\x20velocità\x20di\x20accesso\x20ai\x20dati','Una\x20memoria\x20che\x20perde\x20i\x20dati\x20una\x20volta\x20spento\x20il\x20computer','La\x20velocità\x20di\x20connessione\x20alla\x20rete','Processore','Tempo\x20rimanente:\x20','Quale\x20tipo\x20di\x20memoria\x20è\x20più\x20adatto\x20per\x20trasferire\x20file\x20tra\x20computer?','Fornire\x20alimentazione\x20alla\x20scheda\x20madre','Supporto\x20per\x20ray\x20tracing','.\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>Tempo\x20totale\x20impiegato:\x20','Quale\x20versione\x20di\x20DDR\x20RAM\x20è\x20stata\x20introdotta\x20nel\x202020?','USB','Memoria\x20utilizzata\x20solo\x20dal\x20sistema\x20operativo','Cosa\x20offre\x20il\x20modulo\x20Wi-Fi\x20integrato\x20nelle\x20schede\x20madri\x20moderne?','La\x20velocità\x20del\x20disco\x20rigido','Il\x20numero\x20di\x20core','Riduzione\x20del\x20calore\x20generato','Alimentazione\x20esclusiva\x20di\x20dispositivi','.quiz-container','Fino\x20a\x2010\x20GB','Quale\x20fattore\x20può\x20influenzare\x20la\x20scelta\x20tra\x20HDD\x20e\x20SSD?','nome','Qual\x20è\x20una\x20delle\x20tendenze\x20future\x20per\x20le\x20schede\x20madri?','Sono\x20più\x20economici','9pHYCrB','74454zfbEVp','answers','La\x20comunicazione\x20tra\x20CPU,\x20RAM\x20e\x20periferiche','Gestire\x20le\x20connessioni\x20di\x20rete','Hyper-Threading','Diminuire\x20il\x20consumo\x20energetico','Migliora\x20la\x20qualità\x20video','Overclocking','Richiedono\x20un\x20software\x20speciale\x20per\x20essere\x20utilizzate','La\x20temperatura\x20del\x20sistema','submit','2020','Cosa\x20gestisce\x20il\x20chipset\x20sulla\x20scheda\x20madre?','Compila\x20tutti\x20i\x20campi.','La\x20possibilità\x20di\x20ridurre\x20il\x20consumo\x20energetico','Modello\x20senza\x20ventola\x20di\x20raffreddamento','USB\x20e\x20Thunderbolt','Velocità\x20di\x20accesso\x20ai\x20dati','16587626zNrnAQ','AMD\x20Athlon','Fino\x20a\x20500\x20GB','href','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22answers\x22>','DDR3','floor','La\x20capacità\x20totale\x20della\x20memoria\x20video','innerHTML','Quale\x20delle\x20seguenti\x20è\x20una\x20caratteristica\x20distintiva\x20delle\x20memorie\x20SSD\x20rispetto\x20agli\x20HDD?','Supportare\x20i\x20dispositivi\x20di\x20archiviazione','105kDkWOt','CPU\x20e\x20RAM','Qual\x20è\x20la\x20capacità\x20tipica\x20degli\x20Hard\x20Disk\x20Drive\x20(HDD)?','Per\x20aumentare\x20lo\x20spazio\x20di\x20archiviazione\x20del\x20computer','feedback-studiare','Migliore\x20compatibilità','SD\x20e\x20microSD','Capacità\x20di\x20memorizzazione\x20superiore','Cosa\x20distingue\x20una\x20scheda\x20grafica\x20per\x20il\x20rendering\x203D\x20professionale\x20da\x20una\x20per\x20il\x20gaming?','Cosa\x20memorizza\x20temporaneamente\x20la\x20memoria\x20video\x20di\x20una\x20scheda\x20grafica?','Maggiore\x20capacità\x20di\x20archiviazione'];_0x48db=function(){return _0x270519;};return _0x48db();}
+
+        
+        document.addEventListener("DOMContentLoaded", function() {
+            // Inizializza quizQuestions con tutte le domande disponibili
+            const quizQuestions = [
+                // CPU
+                {
+                    question: "Qual è il compito principale della CPU in un computer?",
+                    answers: {
+                        a: "Memorizzare i dati",
+                        b: "Elaborare i dati e le istruzioni",
+                        c: "Gestire le connessioni di rete",
+                        d: "Alimentare il sistema"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Cosa rappresenta il termine 'core' in una CPU?",
+                    answers: {
+                        a: "La velocità del processore",
+                        b: "La memoria interna della CPU",
+                        c: "Un'unità di elaborazione all'interno della CPU",
+                        d: "La potenza della scheda grafica"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Quale generazione di CPU Intel utilizza il socket LGA 1700?",
+                    answers: {
+                        a: "12ª generazione",
+                        b: "10ª generazione",
+                        c: "9ª generazione",
+                        d: "8ª generazione"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quale dei seguenti componenti è una parte fondamentale di una CPU?",
+                    answers: {
+                        a: "Cache",
+                        b: "RAM",
+                        c: "SSD",
+                        d: "GPU"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cosa indica la sigla 'TDP' nelle CPU?",
+                    answers: {
+                        a: "Thermal Design Power",
+                        b: "Transfer Data Power",
+                        c: "Total Data Processing",
+                        d: "Thread Dual Processing"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quale dei seguenti termini indica la velocità di una CPU?",
+                    answers: {
+                        a: "Frequenza",
+                        b: "Cache",
+                        c: "TDP",
+                        d: "Overclock"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "La sigla 'GHz' si riferisce a quale caratteristica di una CPU?",
+                    answers: {
+                        a: "Velocità di elaborazione",
+                        b: "Dimensione della cache",
+                        c: "Numero di core",
+                        d: "Consumo energetico"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cos'è l'overclocking di una CPU?",
+                    answers: {
+                        a: "Aumentare la frequenza di clock per migliorare le prestazioni",
+                        b: "Diminuire il consumo energetico",
+                        c: "Utilizzare meno core",
+                        d: "Aumentare la dimensione della cache"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quale dei seguenti socket è compatibile con le CPU AMD Ryzen 5000?",
+                    answers: {
+                        a: "AM4",
+                        b: "LGA 1151",
+                        c: "LGA 1700",
+                        d: "AM5"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è il vantaggio di una CPU multi-core?",
+                    answers: {
+                        a: "Gestisce più operazioni contemporaneamente",
+                        b: "Aumenta la capacità della memoria",
+                        c: "Migliora la qualità video",
+                        d: "Riduce il consumo energetico"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cosa indica la cache L1 in una CPU?",
+                    answers: {
+                        a: "Memoria più veloce, vicina ai core",
+                        b: "Memoria di backup",
+                        c: "Memoria più lenta rispetto alla RAM",
+                        d: "Spazio di archiviazione del sistema"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quale CPU è considerata di fascia alta?",
+                    answers: {
+                        a: "Intel Core i9",
+                        b: "Intel Core i3",
+                        c: "AMD Athlon",
+                        d: "Intel Celeron"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è la differenza tra una CPU con 'K' e una senza nelle CPU Intel?",
+                    answers: {
+                        a: "La CPU con 'K' è sbloccata per l'overclocking",
+                        b: "La CPU con 'K' consuma meno energia",
+                        c: "La CPU con 'K' ha più core",
+                        d: "La CPU con 'K' ha una GPU integrata"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cos'è l'hyper-threading in una CPU?",
+                    answers: {
+                        a: "La capacità di una CPU di eseguire più thread su un singolo core",
+                        b: "Un tipo di overclocking",
+                        c: "Una funzione che riduce il consumo energetico",
+                        d: "Un sistema di raffreddamento avanzato"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cosa rappresenta il numero di thread in una CPU?",
+                    answers: {
+                        a: "Il numero di operazioni simultanee che può eseguire",
+                        b: "Il numero di transistor",
+                        c: "La velocità di elaborazione",
+                        d: "La capacità della cache"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cosa significa la sigla 'X' nel nome AMD Ryzen 7 5800X?",
+                    answers: {
+                        a: "Indica un modello ottimizzato per prestazioni elevate",
+                        b: "Modello ottimizzato per risparmio energetico",
+                        c: "Modello con GPU integrata",
+                        d: "Modello senza ventola di raffreddamento"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è il nome della tecnologia Intel che aumenta dinamicamente la frequenza della CPU quando necessario?",
+                    answers: {
+                        a: "Turbo Boost",
+                        b: "Hyper-Threading",
+                        c: "Overclocking",
+                        d: "Smart Cache"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cos'è una CPU con moltiplicatore sbloccato?",
+                    answers: {
+                        a: "Una CPU che permette di regolare la frequenza di clock",
+                        b: "Una CPU senza GPU integrata",
+                        c: "Una CPU ottimizzata per il risparmio energetico",
+                        d: "Una CPU con più core"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è la funzione della cache L3 in una CPU?",
+                    answers: {
+                        a: "Memoria condivisa tra tutti i core",
+                        b: "Memoria di backup",
+                        c: "Memoria per l'overclocking",
+                        d: "Memoria utilizzata solo dal sistema operativo"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è il socket utilizzato dalla maggior parte delle CPU Intel di 12ª generazione?",
+                    answers: {
+                        a: "LGA 1700",
+                        b: "LGA 1151",
+                        c: "AM4",
+                        d: "AM5"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è la differenza principale tra una CPU con 4 core e una con 8 core?",
+                    answers: {
+                        a: "La CPU con 8 core può eseguire più operazioni contemporaneamente",
+                        b: "La CPU con 8 core ha una frequenza maggiore",
+                        c: "La CPU con 8 core consuma meno energia",
+                        d: "Non ci sono differenze rilevanti"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è il componente che mantiene la CPU a una temperatura sicura durante il funzionamento?",
+                    answers: {
+                        a: "Il sistema di raffreddamento",
+                        b: "La memoria RAM",
+                        c: "Il controller della scheda madre",
+                        d: "Il disco SSD"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è il vantaggio di una CPU a 7 nm rispetto a una a 14 nm?",
+                    answers: {
+                        a: "Maggiore efficienza energetica e prestazioni",
+                        b: "Maggiore dimensione della cache",
+                        c: "Maggiore velocità di clock",
+                        d: "Supporto per più RAM"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quale dei seguenti termini si riferisce alla velocità massima di elaborazione di una CPU?",
+                    answers: {
+                        a: "Boost Clock",
+                        b: "TDP",
+                        c: "Thread Count",
+                        d: "Overclock"
+                    },
+                    correctAnswer: "a"
+                },
+                // GPU
+                {
+                    question: "Qual è il ruolo principale di una scheda grafica in un computer?",
+                    answers: {
+                        a: "Elaborare e visualizzare immagini sullo schermo",
+                        b: "Memorizzare dati temporanei",
+                        c: "Controllare le connessioni di rete",
+                        d: "Gestire l'alimentazione del sistema"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quali sono le due parti principali di una scheda grafica?",
+                    answers: {
+                        a: "CPU e RAM",
+                        b: "GPU e memoria video",
+                        c: "Northbridge e Southbridge",
+                        d: "Alimentatore e ventola"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Cosa fa la GPU in una scheda grafica?",
+                    answers: {
+                        a: "Elabora i dati grafici",
+                        b: "Gestisce la memoria del sistema",
+                        c: "Alimenta il computer",
+                        d: "Controlla il sistema operativo"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cosa memorizza temporaneamente la memoria video di una scheda grafica?",
+                    answers: {
+                        a: "Dati grafici",
+                        b: "Immagini salvate dall'utente",
+                        c: "File di sistema",
+                        d: "Dati di rete"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è un fattore che influenza la potenza di una GPU?",
+                    answers: {
+                        a: "Il numero di core",
+                        b: "Il tipo di alimentatore",
+                        c: "La velocità del disco rigido",
+                        d: "Il tipo di monitor collegato"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cosa indica la frequenza di clock in una GPU?",
+                    answers: {
+                        a: "La velocità con cui la GPU elabora i dati",
+                        b: "La capacità della memoria video",
+                        c: "La quantità di dati che può memorizzare",
+                        d: "La velocità di connessione alla rete"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è il vantaggio di una GPU con più core?",
+                    answers: {
+                        a: "Elabora più dati contemporaneamente",
+                        b: "Utilizza meno energia",
+                        c: "Ha una memoria video più grande",
+                        d: "Migliora la velocità di rete"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quali tecnologie avanzate possono migliorare la qualità di una scheda grafica?",
+                    answers: {
+                        a: "Ray tracing e intelligenza artificiale",
+                        b: "Wi-Fi e Bluetooth",
+                        c: "SSD e HDD",
+                        d: "CPU e RAM"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cosa rappresenta il ray tracing nelle schede grafiche moderne?",
+                    answers: {
+                        a: "Una tecnologia per simulare il comportamento realistico della luce",
+                        b: "Un tipo di connessione di rete",
+                        c: "Un sistema di raffreddamento",
+                        d: "Una funzione per aumentare la memoria"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è uno dei principali vantaggi delle schede grafiche di fascia alta?",
+                    answers: {
+                        a: "Una GPU più potente",
+                        b: "Un alimentatore integrato",
+                        c: "La possibilità di ridurre il consumo energetico",
+                        d: "Il supporto per più monitor"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cosa determina la qualità di una scheda grafica?",
+                    answers: {
+                        a: "La potenza della GPU e la memoria video",
+                        b: "La dimensione del monitor collegato",
+                        c: "La velocità del disco rigido",
+                        d: "La quantità di RAM del sistema"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quali marche di schede grafiche sono comunemente utilizzate?",
+                    answers: {
+                        a: "Nvidia e AMD",
+                        b: "Intel e ARM",
+                        c: "Microsoft e Apple",
+                        d: "Samsung e Dell"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è una caratteristica delle schede grafiche di fascia bassa?",
+                    answers: {
+                        a: "Meno memoria video",
+                        b: "Supporto per ray tracing",
+                        c: "Una GPU più potente",
+                        d: "Tecnologie avanzate di intelligenza artificiale"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Per cosa viene utilizzata una scheda grafica in un computer dedicato al gaming?",
+                    answers: {
+                        a: "Elaborare immagini complesse e animazioni fluide",
+                        b: "Memorizzare dati temporanei",
+                        c: "Gestire i file di sistema",
+                        d: "Aumentare la velocità di rete"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quale componente memorizza i dati grafici prima che vengano elaborati dalla GPU?",
+                    answers: {
+                        a: "Memoria video",
+                        b: "Disco rigido",
+                        c: "RAM",
+                        d: "Cache CPU"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cosa fa una GPU con una frequenza di clock più alta?",
+                    answers: {
+                        a: "Elabora i dati più velocemente",
+                        b: "Ha una maggiore capacità di storage",
+                        c: "Utilizza meno energia",
+                        d: "Migliora la connessione internet"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è la funzione della memoria video in una scheda grafica?",
+                    answers: {
+                        a: "Immagazzinare temporaneamente i dati grafici",
+                        b: "Mantenere i dati in modo permanente",
+                        c: "Fornire alimentazione alla GPU",
+                        d: "Gestire le connessioni di rete"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cosa distingue una scheda grafica per il rendering 3D professionale da una per il gaming?",
+                    answers: {
+                        a: "Prestazioni ottimizzate per carichi di lavoro intensivi",
+                        b: "Una minore quantità di memoria video",
+                        c: "Una GPU meno potente",
+                        d: "Supporto per meno monitor"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cosa si intende per 'larghezza di banda della memoria' di una GPU?",
+                    answers: {
+                        a: "La quantità di dati che la memoria video può trasferire in un secondo",
+                        b: "La capacità totale della memoria video",
+                        c: "La frequenza di clock della GPU",
+                        d: "La dimensione della memoria fisica"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è un uso comune delle schede grafiche di fascia alta oltre al gaming?",
+                    answers: {
+                        a: "Rendering 3D professionale",
+                        b: "Gestione della rete",
+                        c: "Controllo del sistema operativo",
+                        d: "Backup dei dati"
+                    },
+                    correctAnswer: "a"
+                },
+                // Schede Madri
+                {
+                    question: "Qual è il ruolo principale della scheda madre in un computer?",
+                    answers: {
+                        a: "Memorizza i dati dell'utente",
+                        b: "Elabora i dati grafici",
+                        c: "Gestisce le connessioni tra i componenti hardware",
+                        d: "Controlla l'alimentazione del PC"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Quale componente si inserisce nel socket della CPU sulla scheda madre?",
+                    answers: {
+                        a: "RAM",
+                        b: "GPU",
+                        c: "Processore",
+                        d: "SSD"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Quale socket è compatibile con le CPU Intel di 12ª generazione?",
+                    answers: {
+                        a: "LGA 1151",
+                        b: "LGA 1700",
+                        c: "AM4",
+                        d: "AM5"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Cosa gestisce il chipset sulla scheda madre?",
+                    answers: {
+                        a: "La comunicazione tra CPU, RAM e periferiche",
+                        b: "La memorizzazione dei dati",
+                        c: "Il raffreddamento del sistema",
+                        d: "L'alimentazione del sistema"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quale dei seguenti componenti si collega agli slot di espansione PCIe?",
+                    answers: {
+                        a: "CPU",
+                        b: "Schede video",
+                        c: "Alimentatore",
+                        d: "Hard disk"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Che tipo di connettore fornisce alimentazione alla scheda madre?",
+                    answers: {
+                        a: "USB",
+                        b: "RJ-45",
+                        c: "ATX 24-pin",
+                        d: "HDMI"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Cos'è l'UEFI in una scheda madre?",
+                    answers: {
+                        a: "Un modulo per l'espansione della RAM",
+                        b: "Un'interfaccia firmware avanzata per gestire l'avvio del sistema",
+                        c: "Un tipo di connessione USB",
+                        d: "Un sistema di raffreddamento"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Qual è la funzione principale dei connettori SATA sulla scheda madre?",
+                    answers: {
+                        a: "Connettere dispositivi di archiviazione come SSD e HDD",
+                        b: "Fornire alimentazione alla CPU",
+                        c: "Gestire le connessioni di rete",
+                        d: "Supportare schede audio"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è il vantaggio dell'utilizzo di SSD M.2 rispetto agli SSD SATA?",
+                    answers: {
+                        a: "Maggiore capacità di storage",
+                        b: "Maggiore velocità di trasferimento dati",
+                        c: "Minore consumo energetico",
+                        d: "Compatibilità con tutte le schede madri"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Quale componente della scheda madre inizializza l'hardware e carica il sistema operativo?",
+                    answers: {
+                        a: "BIOS/UEFI",
+                        b: "Chipset",
+                        c: "Northbridge",
+                        d: "Slot PCIe"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Che tipo di RAM viene tipicamente utilizzata nelle schede madri moderne?",
+                    answers: {
+                        a: "DDR2",
+                        b: "DDR3",
+                        c: "DDR4 e DDR5",
+                        d: "SDRAM"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Qual è la funzione del Northbridge nei sistemi più datati?",
+                    answers: {
+                        a: "Gestire la comunicazione tra CPU, RAM e GPU",
+                        b: "Fornire alimentazione alla CPU",
+                        c: "Memorizzare i dati temporanei",
+                        d: "Supportare i dispositivi di archiviazione"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è una delle tendenze future per le schede madri?",
+                    answers: {
+                        a: "Supporto per CPU e RAM più potenti",
+                        b: "Riduzione delle dimensioni del Northbridge",
+                        c: "Eliminazione delle porte USB",
+                        d: "Abolizione delle slot di espansione"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Cosa offre il modulo Wi-Fi integrato nelle schede madri moderne?",
+                    answers: {
+                        a: "Maggiore potenza di calcolo",
+                        b: "Accesso a internet wireless",
+                        c: "Memorizzazione di dati utente",
+                        d: "Supporto per dispositivi esterni"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Qual è il ruolo del Southbridge in una scheda madre?",
+                    answers: {
+                        a: "Gestire la comunicazione tra CPU e periferiche come dischi rigidi e porte USB",
+                        b: "Connettere la RAM alla CPU",
+                        c: "Fornire alimentazione alla scheda madre",
+                        d: "Supportare il chipset Northbridge"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è una delle funzioni del BIOS durante l'avvio del sistema?",
+                    answers: {
+                        a: "Effettuare il Power-On Self-Test (POST)",
+                        b: "Aumentare la capacità di storage",
+                        c: "Gestire le connessioni video",
+                        d: "Memorizzare i dati temporanei"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quale porta I/O viene utilizzata per connettere il cavo Ethernet alla scheda madre?",
+                    answers: {
+                        a: "USB-C",
+                        b: "HDMI",
+                        c: "RJ-45",
+                        d: "SATA"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Quale tipo di slot PCIe è più comunemente utilizzato per le schede grafiche?",
+                    answers: {
+                        a: "PCIe x1",
+                        b: "PCIe x4",
+                        c: "PCIe x8",
+                        d: "PCIe x16"
+                    },
+                    correctAnswer: "d"
+                },
+                {
+                    question: "Qual è il vantaggio del formato M.2 rispetto ai tradizionali SSD SATA?",
+                    answers: {
+                        a: "Maggiore efficienza energetica",
+                        b: "Velocità di trasferimento dati più elevata",
+                        c: "Capacità di memorizzazione superiore",
+                        d: "Compatibilità con schede madri di vecchia generazione"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Cosa indicano le porte USB-C presenti sulle schede madri moderne?",
+                    answers: {
+                        a: "Connettività rapida e versatile",
+                        b: "Compatibilità solo con dispositivi Apple",
+                        c: "Alimentazione esclusiva di dispositivi",
+                        d: "Riduzione della capacità di trasferimento dati"
+                    },
+                    correctAnswer: "a"
+                },
+                //RAM
+                {
+                    question: "Qual è la funzione principale della RAM in un computer?",
+                    answers: {
+                        a: "Archiviare i dati permanentemente",
+                        b: "Memorizzare temporaneamente i dati e le istruzioni usate dal processore",
+                        c: "Gestire le connessioni di rete",
+                        d: "Alimentare il sistema"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Che tipo di memoria è la RAM?",
+                    answers: {
+                        a: "Memoria permanente",
+                        b: "Memoria volatile",
+                        c: "Memoria ottica",
+                        d: "Memoria di archiviazione"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Dove viene installata la RAM all'interno del computer?",
+                    answers: {
+                        a: "Sulla scheda madre",
+                        b: "Nel disco rigido",
+                        c: "Nella GPU",
+                        d: "Nel processore"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è stata la prima forma di RAM sincrona?",
+                    answers: {
+                        a: "SDRAM",
+                        b: "DDR",
+                        c: "DDR2",
+                        d: "DDR4"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è stata la principale innovazione introdotta dalla DDR rispetto alla SDRAM?",
+                    answers: {
+                        a: "Maggior capacità",
+                        b: "Migliore compatibilità",
+                        c: "Velocità di trasmissione doppia",
+                        d: "Minore consumo energetico"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Quale versione di DDR RAM è stata introdotta nel 2020?",
+                    answers: {
+                        a: "DDR3",
+                        b: "DDR4",
+                        c: "DDR5",
+                        d: "DDR2"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Quali sono i principali fattori che differenziano le varie versioni di DDR RAM?",
+                    answers: {
+                        a: "Il colore e la dimensione",
+                        b: "La velocità di trasmissione dei dati, la capacità e l'efficienza energetica",
+                        c: "Il prezzo e la compatibilità con i dischi rigidi",
+                        d: "Il tipo di connessione e la lunghezza dei moduli"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Cosa si intende per memoria volatile?",
+                    answers: {
+                        a: "Una memoria che conserva i dati dopo lo spegnimento del computer",
+                        b: "Una memoria che perde i dati una volta spento il computer",
+                        c: "Una memoria che si connette via USB",
+                        d: "Una memoria che conserva solo file di sistema"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Quale versione di RAM è stata la prima a ridurre significativamente il consumo energetico rispetto alla precedente?",
+                    answers: {
+                        a: "DDR2",
+                        b: "DDR4",
+                        c: "DDR3",
+                        d: "SDRAM"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Quale di queste versioni di RAM è compatibile solo con schede madri che supportano specificamente quel tipo?",
+                    answers: {
+                        a: "DDR4 e DDR5",
+                        b: "SDRAM e DDR",
+                        c: "DDR3 e DDR5",
+                        d: "Tutte le risposte precedenti"
+                    },
+                    correctAnswer: "d"
+                },
+                {
+                    question: "Qual è un vantaggio dell'utilizzo della DDR5 rispetto alla DDR4?",
+                    answers: {
+                        a: "Miglioramento della velocità di trasmissione e dell'efficienza energetica",
+                        b: "Compatibilità con tutte le schede madri",
+                        c: "Maggiore spazio di archiviazione permanente",
+                        d: "Miglioramento delle prestazioni del processore"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è la funzione principale della RAM durante l'esecuzione dei programmi?",
+                    answers: {
+                        a: "Archiviare file importanti a lungo termine",
+                        b: "Memorizzare temporaneamente i dati per un accesso rapido",
+                        c: "Gestire le connessioni tra dispositivi",
+                        d: "Fornire energia al sistema"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Quale caratteristica rende la DDR4 più efficiente della DDR3?",
+                    answers: {
+                        a: "Velocità di trasmissione più elevata",
+                        b: "Consumo energetico ridotto",
+                        c: "Maggior capacità di archiviazione temporanea",
+                        d: "Tutte le risposte precedenti"
+                    },
+                    correctAnswer: "d"
+                },
+                {
+                    question: "Perché non è possibile utilizzare una RAM DDR4 su una scheda madre che supporta solo DDR3?",
+                    answers: {
+                        a: "Perché hanno connessioni fisiche diverse",
+                        b: "Perché la DDR4 consuma troppa energia",
+                        c: "Perché la DDR4 è troppo veloce",
+                        d: "Perché la DDR3 è più vecchia"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "In che anno è stata introdotta la DDR4?",
+                    answers: {
+                        a: "2020",
+                        b: "2014",
+                        c: "2008",
+                        d: "2010"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Qual è la differenza principale tra SDRAM e DDR RAM?",
+                    answers: {
+                        a: "La SDRAM è più veloce della DDR",
+                        b: "La DDR ha una velocità di trasmissione dati doppia rispetto alla SDRAM",
+                        c: "La SDRAM consuma meno energia della DDR",
+                        d: "La DDR è compatibile con tutte le schede madri"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Quale di queste versioni di RAM è stata la prima a ridurre significativamente il consumo energetico rispetto alla DDR?",
+                    answers: {
+                        a: "DDR2",
+                        b: "DDR3",
+                        c: "DDR4",
+                        d: "DDR5"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quale versione di RAM permette velocità di trasmissione e capacità superiori con consumi energetici ridotti?",
+                    answers: {
+                        a: "DDR5",
+                        b: "DDR4",
+                        c: "DDR3",
+                        d: "SDRAM"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Perché è importante scegliere la RAM giusta per il proprio computer?",
+                    answers: {
+                        a: "Per migliorare le prestazioni e garantire la compatibilità con la scheda madre",
+                        b: "Perché la RAM influenza il consumo energetico del monitor",
+                        c: "Per migliorare le prestazioni della scheda video",
+                        d: "Per aumentare lo spazio di archiviazione del computer"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Qual è la caratteristica principale della memoria DDR2 rispetto alla DDR?",
+                    answers: {
+                        a: "Velocità di trasmissione più alta e maggiore efficienza energetica",
+                        b: "Maggiore capacità di archiviazione",
+                        c: "Compatibilità con schede madri più vecchie",
+                        d: "Riduzione del calore generato"
+                    },
+                    correctAnswer: "a"
+                },
+                // memorie di massa
+                {
+                    question: "Qual è la principale differenza tra memoria volatile e memoria di massa?",
+                    answers: {
+                        a: "La memoria volatile conserva i dati dopo lo spegnimento del computer",
+                        b: "La memoria di massa conserva i dati senza alimentazione",
+                        c: "La memoria volatile ha capacità maggiore rispetto alla memoria di massa",
+                        d: "La memoria di massa è più veloce della memoria volatile"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Quale tipo di memoria di massa utilizza dischi rotanti magnetici per salvare i dati?",
+                    answers: {
+                        a: "SSD",
+                        b: "USB",
+                        c: "HDD",
+                        d: "Schede di memoria"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Qual è la capacità tipica degli Hard Disk Drive (HDD)?",
+                    answers: {
+                        a: "Da pochi MB a 1 GB",
+                        b: "Da 500 GB a diversi TB",
+                        c: "Da 128 GB a 512 GB",
+                        d: "Da 1 TB a 10 TB"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Cosa limita la velocità di accesso ai dati in un HDD?",
+                    answers: {
+                        a: "La quantità di memoria",
+                        b: "La velocità di rotazione dei dischi",
+                        c: "Il numero di file memorizzati",
+                        d: "La temperatura del sistema"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Quale delle seguenti affermazioni è vera riguardo agli SSD?",
+                    answers: {
+                        a: "Sono più lenti degli HDD",
+                        b: "Utilizzano dischi rotanti magnetici",
+                        c: "Non hanno parti mobili",
+                        d: "Sono più economici degli HDD"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Qual è il vantaggio principale degli SSD rispetto agli HDD?",
+                    answers: {
+                        a: "Costo inferiore",
+                        b: "Maggiore capacità di archiviazione",
+                        c: "Maggiore velocità di accesso ai dati",
+                        d: "Supportano solo file di piccole dimensioni"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Quale dispositivo di archiviazione è più resistente agli urti?",
+                    answers: {
+                        a: "HDD",
+                        b: "SSD",
+                        c: "RAM",
+                        d: "Cache"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Qual è lo svantaggio principale degli SSD rispetto agli HDD?",
+                    answers: {
+                        a: "Durabilità inferiore",
+                        b: "Velocità inferiore",
+                        c: "Costo superiore per GB",
+                        d: "Non possono essere usati per backup"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Quale tipo di memoria è più adatto per trasferire file tra computer?",
+                    answers: {
+                        a: "RAM",
+                        b: "HDD",
+                        c: "SSD",
+                        d: "Memorie USB"
+                    },
+                    correctAnswer: "d"
+                },
+                {
+                    question: "Qual è la capacità massima tipica di una memoria USB?",
+                    answers: {
+                        a: "Fino a 1 TB",
+                        b: "Fino a 10 GB",
+                        c: "Fino a 500 GB",
+                        d: "Fino a 10 TB"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quali dispositivi utilizzano principalmente le schede di memoria?",
+                    answers: {
+                        a: "Fotocamere digitali e smartphone",
+                        b: "PC desktop",
+                        c: "Server aziendali",
+                        d: "Console di gioco"
+                    },
+                    correctAnswer: "a"
+                },
+                {
+                    question: "Quali sono i formati comuni delle schede di memoria?",
+                    answers: {
+                        a: "HDD e SSD",
+                        b: "USB e Thunderbolt",
+                        c: "SD e microSD",
+                        d: "RAM e ROM"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Quale delle seguenti è una caratteristica delle schede di memoria?",
+                    answers: {
+                        a: "Capacità massima di 1 GB",
+                        b: "Classe di velocità che determina la capacità di trasferire dati rapidamente",
+                        c: "Sono più veloci degli SSD",
+                        d: "Utilizzano dischi rotanti"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "Qual è un vantaggio delle memorie di massa USB?",
+                    answers: {
+                        a: "Sono più lente delle schede di memoria",
+                        b: "Sono facili da trasportare e leggere su vari dispositivi",
+                        c: "Supportano solo file di piccole dimensioni",
+                        d: "Richiedono un software speciale per essere utilizzate"
+                    },
+                    correctAnswer: "b"
+                },
+                {
+                    question: "In cosa gli HDD sono generalmente superiori rispetto agli SSD?",
+                    answers: {
+                        a: "Velocità di accesso ai dati",
+                        b: "Resistenza agli urti",
+                        c: "Costo per GB",
+                        d: "Durata nel tempo"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Perché gli SSD sono preferiti per il caricamento del sistema operativo rispetto agli HDD?",
+                    answers: {
+                        a: "Hanno una capacità maggiore",
+                        b: "Sono più economici",
+                        c: "Hanno tempi di accesso ai dati molto più rapidi",
+                        d: "Consumano più energia"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Quale dispositivo di archiviazione è ideale per backup di grandi quantità di dati a basso costo?",
+                    answers: {
+                        a: "SSD",
+                        b: "Memoria USB",
+                        c: "HDD",
+                        d: "Scheda di memoria"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Qual è un vantaggio delle schede di memoria SD rispetto alle memorie USB?",
+                    answers: {
+                        a: "Maggiore velocità di trasferimento",
+                        b: "Capacità di archiviazione superiore",
+                        c: "Utilizzo in dispositivi portatili come fotocamere e smartphone",
+                        d: "Costo per GB inferiore"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Quale delle seguenti è una caratteristica distintiva delle memorie SSD rispetto agli HDD?",
+                    answers: {
+                        a: "Sono più lente",
+                        b: "Richiedono più energia per funzionare",
+                        c: "Non hanno parti meccaniche",
+                        d: "Offrono maggiore capacità di archiviazione"
+                    },
+                    correctAnswer: "c"
+                },
+                {
+                    question: "Quale fattore può influenzare la scelta tra HDD e SSD?",
+                    answers: {
+                        a: "Le dimensioni dello schermo del computer",
+                        b: "Le esigenze di velocità e la quantità di dati da archiviare",
+                        c: "Il numero di porte USB disponibili",
+                        d: "La risoluzione del display"
+                    },
+                    correctAnswer: "b"
+                }
+                // Puoi aggiungere altre domande sui componenti hardware se necessario
+            ];
+            
+            let timer;  // Per il setTimeout
+            let timeRemaining = 120;  // 2 minuti in secondi (120 secondi)
+            let totalTimeUsed = 0; // Tempo totale utilizzato per completare tutte le domande
+            let timeUsedInCurrentSet = 0; // Tempo usato per il set corrente
+    
+            function startTimer() {
+                timeRemaining = 120; // 2 minuti
+                timeUsedInCurrentSet = 0;
+                updateTimerDisplay();
+            
+                timer = setInterval(function() {
+                    timeRemaining--;
+                    timeUsedInCurrentSet++;
+            
+                    if (timeRemaining <= 0) {
+                        clearInterval(timer);
+                        alert("Tempo scaduto! Le risposte correnti verranno inviate automaticamente.");
+                        handleNext();  // Simula il clic sul pulsante per inviare le risposte
+                    }
+            
+                    updateTimerDisplay();
+                }, 1000);  // Aggiorna ogni secondo
+            }
+            function updateTimerDisplay() {
+                const timerDisplay = document.getElementById('timerDisplay');
+                const minutes = Math.floor(timeRemaining / 60);
+                const seconds = timeRemaining % 60;
+                timerDisplay.textContent = `Tempo rimanente: ${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+            }
+                        
+            // Funzione per selezionare casualmente 20 domande
+            function getRandomQuestions(questions, numQuestions) {
+                const shuffled = questions.sort(() => 0.5 - Math.random()); // Mescola l'array
+                return shuffled.slice(0, numQuestions); // Prende le prime `numQuestions` domande
+            }
+        
+            const selectedQuestions = getRandomQuestions(quizQuestions, 40); // Seleziona 20 domande casuali
+        
+            const quizContainer = document.getElementById('quiz');
+            const resultsContainer = document.getElementById('results');
+            const submitButton = document.getElementById('submit');
+            const progressBar = document.createElement('progress');
+            
+            progressBar.max = 100;
+            progressBar.value = 0;
+        
+            progressBar.style.display = 'none';
+        
+            submitButton.style.display = 'none'; // Nascondiamo il pulsante "Invia Risposte" inizialmente
+            const quizContainerParent = document.querySelector('.quiz-container');
+            quizContainerParent.insertBefore(progressBar, quizContainer);
+        
+            let currentQuestionIndex = 0;
+            let numCorrect = 0;
+            const questionsPerPage = 4;
+            const totalQuestions = selectedQuestions.length;
+            let studentData = {
+                nome: '',
+                cognome: '',
+                gruppo: '',
+                risultatiIntermedi: [] // Per salvare i risultati intermedi per ogni set di 4 domande
+            };
+        
+            // Creazione della pagina di benvenuto
+            function showWelcomePage() {
+                document.getElementById('timerDisplay').style.display = 'none';  // Nascondi il timer nella schermata di benvenuto
+                quizContainer.innerHTML = `
+                    <div class="welcome">
+                        <h2>Benvenuto al Quiz sui componenti hardware del PC</h2>
+                        <label for="nome">Nome:</label>
+                        <input type="text" id="nome" required><br>
+                        <label for="cognome">Cognome:</label>
+                        <input type="text" id="cognome" required><br>
+                        <label for="gruppo">Numero Gruppo:</label>
+                        <input type="text" id="gruppo" required><br>
+                        <button id="startQuiz">Inizia il Quiz</button>
+                    </div>
+                `;
+        
+                document.getElementById('startQuiz').addEventListener('click', function() {
+                    const nome = document.getElementById('nome').value;
+                    const cognome = document.getElementById('cognome').value;
+                    const gruppo = document.getElementById('gruppo').value;
+        
+                    if (nome && cognome && gruppo) {
+                        studentData.nome = nome;
+                        studentData.cognome = cognome;
+                        studentData.gruppo = gruppo;
+                        progressBar.style.display = 'block'; // Mostriamo la barra di stato
+                        submitButton.style.display = 'block'; // Mostriamo il pulsante "Invia Risposte"
+                        buildQuiz();
+                    } else {
+                        alert("Compila tutti i campi.");
+                    }
+                });
+            }
+        
+            // Funzione per costruire il quiz
+            function buildQuiz() {
+                if (currentQuestionIndex === 0) {
+                    document.getElementById('timerDisplay').style.display = 'block';  // Mostra il timer solo dal primo set
+                }
+            
+                clearInterval(timer);  // Ferma eventuali timer precedenti
+                startTimer();  // Avvia un nuovo timer
+                const output = [];
+                const endIndex = currentQuestionIndex + questionsPerPage;
+                const questionsToShow = selectedQuestions.slice(currentQuestionIndex, endIndex);
+        
+                questionsToShow.forEach((currentQuestion, questionNumber) => {
+                    const answers = [];
+        
+                    for (letter in currentQuestion.answers) {
+                        answers.push(
+                            `<label>
+                                <input type="radio" name="question${questionNumber}" value="${letter}">
+                                ${letter}: ${currentQuestion.answers[letter]}
+                            </label>`
+                        );
+                    }
+        
+                    const imageHTML = currentQuestion.image ? `<img src="${currentQuestion.image}" alt="Resistenza" class="resistance-image">` : '';
+        
+                    output.push(
+                        `<div class="question">${currentQuestion.question}</div>
+                         ${imageHTML}
+                         <div class="answers">${answers.join('')}</div>`
+                    );
+                });
+        
+                quizContainer.innerHTML = output.join('');
+                progressBar.value = ((currentQuestionIndex / totalQuestions) * 100)+20; // Aggiorna barra di stato
+            }
+        
+            // Funzione per mostrare i risultati parziali
+            function showResults() {
+                const answerContainers = quizContainer.querySelectorAll('.answers');
+                const endIndex = currentQuestionIndex + questionsPerPage;
+                const questionsToShow = selectedQuestions.slice(currentQuestionIndex, endIndex);
+                let numCorrectInSet = 0;
+                studentData.risultatiIntermedi.push({
+                    fase: (currentQuestionIndex / questionsPerPage) + 1,
+                    risposteCorretteInSet: numCorrectInSet,
+                    tempoImpiegatoInSet: timeUsedInCurrentSet  // Aggiungi il tempo usato
+                });
+                
+                totalTimeUsed += timeUsedInCurrentSet;  // Somma il tempo al totale
+                
+                questionsToShow.forEach((currentQuestion, questionNumber) => {
+                    const answerContainer = answerContainers[questionNumber];
+                    const selector = `input[name=question${questionNumber}]:checked`;
+                    const userAnswer = (answerContainer.querySelector(selector) || {}).value;
+        
+                    if (userAnswer === currentQuestion.correctAnswer) {
+                        numCorrect++;
+                        numCorrectInSet++;
+                        answerContainer.classList.add('correct');
+                    } else {
+                        answerContainer.classList.add('wrong');
+                    }
+                });
+        
+                // Salva i risultati intermedi per il set corrente
+                studentData.risultatiIntermedi.push({
+                    fase: (currentQuestionIndex / questionsPerPage) + 1,
+                    risposteCorretteInSet: numCorrectInSet
+                });
+        
+                let message = '';
+                let feedbackType = '';
+                
+                if (numCorrectInSet === 4) {
+                    message = "OTTIMO! Sei un fenomeno!";
+                    feedbackType = 'feedback-ottimo';
+                } else if (numCorrectInSet === 3) {
+                    message = "BRAVO! continua così!";
+                    feedbackType = 'feedback-bravo';
+                } else if (numCorrectInSet === 2) {
+                    message = "Mmh, forse sei emozionato?";
+                    feedbackType = 'feedback-emozionato';
+                } else {
+                    message = "Mi sa che devi studiare di più!";
+                    feedbackType = 'feedback-studiare';
+                }
+        
+                showFeedbackMessage(message, feedbackType);  // Mostra il messaggio di feedback con lo stile giusto
+                resultsContainer.innerHTML = `<div class="result-message">${message}</div>`;
+        
+                submitButton.textContent = 'Vai avanti';
+            }
+        
+            // Funzione per visualizzare il messaggio di feedback
+            function showFeedbackMessage(message, feedbackType) {
+                const feedbackMessage = document.createElement('div');
+                feedbackMessage.classList.add('feedback-message', feedbackType);
+                feedbackMessage.textContent = message;
+                document.body.appendChild(feedbackMessage);
+        
+                // Mostra il messaggio e poi lo rimuove dopo un secondo
+                feedbackMessage.style.display = 'block';
+                setTimeout(() => {
+                    feedbackMessage.style.display = 'none';
+                    document.body.removeChild(feedbackMessage);
+                }, 1000);
+            }
+        
+            function handleNext() {
+                clearInterval(timer);  // Ferma il timer quando invii le risposte
+                const isFinalSet = currentQuestionIndex + questionsPerPage >= selectedQuestions.length;
+        
+                if (submitButton.textContent === 'Invia Risposte') {
+                    showResults();
+                } else if (submitButton.textContent === 'Vai avanti') {
+                    currentQuestionIndex += questionsPerPage;
+        
+                    if (!isFinalSet) {
+                        buildQuiz();
+                        submitButton.textContent = 'Invia Risposte';
+                    } else {
+                        quizContainer.innerHTML = '';
+                        resultsContainer.innerHTML = `<div class="result-message">Hai risposto correttamente a ${numCorrect} domande su ${totalQuestions}</div>`;
+                        submitButton.style.display = 'none';
+                        downloadResults(); // Scarica i risultati alla fine
+                    }
+                }
+                if (isFinalSet) {
+                    quizContainer.innerHTML = '';
+                    resultsContainer.innerHTML = `
+                        <div class="result-message">
+                            Hai risposto correttamente a ${numCorrect} domande su ${totalQuestions}.
+                            <br>Tempo totale impiegato: ${Math.floor(totalTimeUsed / 60)} minuti e ${totalTimeUsed % 60} secondi.
+                        </div>`;
+                    submitButton.style.display = 'none';
+                    downloadResults();  // Scarica i risultati alla fine
+                }
+                
+            }
+        
+            // Funzione per scaricare il file JSON con i risultati
+            function downloadResults() {
+                const data = {
+                    nome: studentData.nome,
+                    cognome: studentData.cognome,
+                    gruppo: studentData.gruppo,
+                    risposte_corrette: numCorrect,
+                    domande_totali: totalQuestions,
+                    risultati_intermedi: studentData.risultatiIntermedi,
+                    tempo_totale: totalTimeUsed  // Aggiungi il tempo totale nel file JSON
+                };
+                
+        
+                const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+                const url = URL.createObjectURL(blob);
+                const link = document.createElement('a');
+                link.href = url;
+                link.download = `${studentData.nome.replace(' ', '_')}_${studentData.cognome.replace(' ', '_')}_risultati_quiz.json`;
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+            }
+        
+            showWelcomePage(); // Mostra la pagina di benvenuto
+            submitButton.addEventListener('click', handleNext);
+        });
+        
+    
